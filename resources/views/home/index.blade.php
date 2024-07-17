@@ -180,10 +180,7 @@
                             </li>
                         </ul> -->
                     </div>
-                    <div class="div" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="contact1.html" class="welcome6-btn">Legal Support Needed<i
-                                class="fa-regular fa-arrow-right"></i></a>
-                    </div>
+                    
                 </div>
             </div>
         </div>
