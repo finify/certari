@@ -468,8 +468,8 @@
                 <div class="testimonial7-haeder text-center">
                     <span data-aos="fade-up" data-aos-duration="800">Our Testimonials</span>
                     <h2 data-aos="fade-up" data-aos-duration="1000">
-                        From Client to Advocates, Dedicated Legal
-                        <span class="defence">Trust</span>
+                        What Our 
+                        <span class="defence">Clients</span> Are Saying
                     </h2>
                 </div>
             </div>
