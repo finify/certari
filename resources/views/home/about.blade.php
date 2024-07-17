@@ -2,353 +2,488 @@
 
 @section('content')
 
-	<!--Page Title-->
-	<section class="page-title" style="background-image:url(/homeassets/images/background/6.jpg)">
-    	<div class="auto-container">
-        	<ul class="page-breadcrumb">
-            	<li><a href="index.html">Home</a></li>
-                <li>About Us</li>
-            </ul>
-        	<h1>About Us</h1>
-        </div>
-    </section>
-    <!--End Page Title-->
-    
-    <!--Company Section-->
-    <section class="company-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>Company OverView</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
-                        <div class="text">
-                        	<p>Vaco Gas is a Nigerian midstream to downstream company seeking to deliver smart energy solutions to a wide spectrum of customers with a strategic focus on the natural gas value chain. Our strategic priorities include gas sourcing, distribution and technical solutions for gas utilisation via pipeline CNG or LNG. </br>
-Our business model is geared towards providing cleaner, cost-effective natural gas for power generation, vehicle transportation and manufacturing processes in infrastructure stranded markets within and beyond  the emerging industrial hubs of South Eastern Nigeria.
-                            </p>
-                        </div>
-                        <!-- <div class="signature"><img src="images/resource/signature.png" alt="" /></div> -->
+  <!--===== WELCOME STARTS=======-->
+  <div class="welcome-inner-section-area" style="background-image: url(/homeassets/assets/img/bacground/inner-bg.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
+      <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 m-auto">
+                    <div class="welcome-inner-header text-center">
+                        <h1>About Us</h1>
+                        <a href="index.html">Home <span><i class="fa-light fa-angle-right"></i></span> About Us</a>
+                        <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                     </div>
                 </div>
-                
-                <!--Image Column-->
-                <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="image">
-                        	<img src="/homeassets/images/cngtruck.jpeg" alt="" />
-                        </div>
-                        <!-- <div class="carousel-box">
-                        	<div class="single-item-carousel owl-carousel owl-box">
-                            
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
-                
             </div>
         </div>
-    </section>
-    <!--End Company Section-->
-    
-    <!--Highlights Section-->
-    <section class="highlights-section">
-    	<div class="image-layer" style="background-image:url(/homeassets/images/about2.jpeg)"></div>
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>Core Values:</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        
-                        <div class="row clearfix">
-                        	
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-target"></span>
-                                    </div>
-                                    <h3>Safety</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-graph"></span>
-                                    </div>
-                                    <h3>Sustainability</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-quality"></span>
-                                    </div>
-                                    <h3>Innovation</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-idea"></span>
-                                    </div>
-                                    <h3>Integrity</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-loupe"></span>
-                                    </div>
-                                    <h3>Customer Focus</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-people-1"></span>
-                                    </div>
-                                    <h3>Collaboration</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-                
-                <!--Services Column-->
-                <div class="services-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <div class="upper-box">
-                            <div class="icon flaticon-target"></div>
-                            <h2>Our Vision</h2>
-                        </div>
-                        <div class="text">To be a leader in innovative energy solutions in sub-saharan Africa</div>
-                        
-                    </div>
-                	<div class="inner-column">
-                        <div class="upper-box">
-                            <div class="icon flaticon-target"></div>
-                            <h2>Our Mission</h2>
-                        </div>
-                        <div class="text">To deepen energy utilization in immediate markets by facilitating smart and efficient energy solutions to a differentiated cross-section of customers. </div>
-                        <!-- <a href="#" class="services">Our Services <span class="icon flaticon-arrow-pointing-to-right"></span></a> -->
-                    </div>
-                </div>
-                
+    </div>
+  <!--===== WELCOME ENDS=======-->
+
+  <!--===== ABOUT STARTS=======-->
+  <div class="about3-section-area about-inner">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="about3-textarea">
+            <span>About Us</span>
+            <h2>Navigating & Legal Maze with a Criminal Defense Expert</h2>
+          <p>Service providers can differentiate themselves by offering high-quality and reliable services. Airlines, for instance, promote their safety records and.</p>
+            <div class="about3-textarea-list">
+              <ul>
+                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Expertise & Knowledge</a></li>
+                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Quality & Reliability</a></li>
+              </ul>
+              <ul>
+                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Improved Efficiency</a></li>
+                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Environment Benefits</a></li>
+              </ul>
             </div>
+            <div class="about3-pera-text">
+              <p>Some services emphasize environmental sustainability as a benefit, Car-sharing services like Zipcar promote reduced emissions and the use of fewer vehicles, contributing to a greener environment.</p>
+            </div>
+            <div class="div">
+              <a href="about.html" class="casebtn1">Request Case Evolution <span><i class="fa-regular fa-arrow-right"></i></span></a>
+            </div>
+          </div>
         </div>
-    </section>
-    <!--End Highlights Section-->
+        <div class="col-lg-6">
+          <div class="about3-images-area">
+            <img src="/homeassets/assets/img/images/about-img3.png" alt="">
+            <div class="elementors21">
+              <img src="/homeassets/assets/img/elements/elementor21.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--===== ABOUT ENDS=======-->
 
 
-      <!--Career Section-->
-      <section class="career-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-lg-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>THE NATURAL GAS ADVANTAGE</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        
-                        <ul class="list-style-one">
-                        	<li><strong>Cheaper, cleaner and safer fuel</strong></li>
-                        	<li><strong>Cost-Effective energy solution for mass/bulk transportation</strong></li>
-                            <li><strong>Job creation across value chain</strong></li>
-                        	<li><strong>Technology Transfer</strong></li>
+  <!--===== SERVICE STARTS=======-->
+<div class="about-servce-section-area sp1">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="about-service-area">
+                    <div class="about-img1">
+                        <img src="/homeassets/assets/img/images/about-inner-img1.png" alt="">
+                    </div>
+                    <div class="about-img2 aniamtion-key-1">
+                        <img src="/homeassets/assets/img/images/about-inner-img2.png" alt="" >
+                    </div>
+                    <div class="eleemntors30 d-lg-inline-block d-none">
+                        <img src="/homeassets/assets/img/elements/elementor30.png" alt="">
+                    </div>
+                    <div class="experiance-area">
+                        <h4><span class="counter">25</span>+</h4>
+                        <p>Years Of Experience</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-1">
+
+            </div>
+            <div class="col-lg-6">
+                <div class="about-service-content">
+                    <h2>Expert Criminal Best Defense Lawyers Protecting Future</h2>
+                    <p>Welcome to Law Firm Name, where your rights, freedom, and future matter most. Our team comprises seasoned criminal defense attorneys dedicated to providing unwavering protection and strategic advocacy for every client.</p>
+                    <p>Our commitment extends beyond the courtroom - we prioritize best lawyer communication, transparency, and personalized attention, ensuring you're informed & empowered every step of the way. Rest assured, with our Law.</p>
+                    <div class="about3-textarea-list">
+                        <ul>
+                          <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Expertise & Knowledge</a></li>
+                          <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Quality & Reliability</a></li>
                         </ul>
-                        
-                    </div>
+                        <ul>
+                          <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Improved Efficiency</a></li>
+                          <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Environment Benefits</a></li>
+                        </ul>
+                      </div>
+                      <div class="div">
+                        <a href="service1.html" class="casebtn1">Secure Your Defense <span><i class="fa-regular fa-arrow-right"></i></span></a>
+                      </div>
                 </div>
-                <div class="col-lg-6">
-                    <img src="/homeassets/images/reliable.jpeg" width="100%" alt="">
-                </div>
-                
             </div>
         </div>
-    </section>
-    <!--End Career Section-->
-    
-    <!--Team Section-->
-    <section class="team-section">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-            	<h2>Behind Our Success</h2>
-                <div class="separator"></div>
-            </div>
-            <div class="row clearfix">
-            	
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/chukwuma.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">Ezeike Chukwuma</a></h3>
-                            <div class="designation">Managing Director</div>
-                            <div class="text">Chukwuma is a seasoned oil and gas professional with over 28 years cognate experience in the upstream midstream and downstream sectors.
-                            Following a brief stint with Guinness Nigeria, Chukwuma joined the Royal Dutch Shell Group as a Production Facilities Engineer involved with design construction and lifecycle management of strategic oil and gas production assets. He joined the Oando Group in 2009 as Head Quality Assurance where he oversaw the implementation of robust quality management systems for the upstream and midstream subsidiaries. Chukwuma was later appointed Head Engineering and Operations for the Axella group where he led the development of over 400 megawatts of captive power generation and expanded the largest domestic gas distribution network in sub-Saharan Africa including the development of a 150000scmd CNG mother station.
-                            A powerful communicator, change driver and people manager, Chukwuma has played key leadership roles in strategic projects in Nigeria, US and the Middle East including sitting as a member of the policy think-tank for the Nigerian Gas Network Code. Chukwuma has an MBA from Imperial College Business School London.</div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/chinedu1.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">CHINEDU OKORONKWO<br> </a></h3>
-                            <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
-                            <div class="text">
-                            Before joining Vaco Gas, Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
-                            <br>
-                            An urbane man of all seasons, Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
-                            <br>
-                            He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
-                            <br>
-                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Chinedu Okoronkwo had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the introduction of the Compressed Natural Gas (CNG), three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
-                            <br>
-                            His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a criteria that led THIS DAY newspapers in December  2022 to  list Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
-                        </div>
-                    </div>
-                </div>
+    </div>
+</div>
+  <!--===== SERVICE ENDS=======-->
 
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/aliche1.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
+  <!--===== ABOUT HISTORY STARTS=======-->
+<div class="about-history-sction-area sp1">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 m-auto">
+                <div class="history-header text-center">
+                    <span>Company History</span>
+                    <h2>Our History</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 m-auto">
+                <div class="about-history-tabs">
+                   <div class="row">
+                    <div class="col-lg-10 m-auto">
+                        <nav class="tabs-nav">
+                            <a href="javascript:void(0);" data-tab="one" class="active">2017</a>
+                            <a href="javascript:void(0);" data-tab="two">2018</a>
+                            <a href="javascript:void(0);" data-tab="three">2019</a>
+                            <a href="javascript:void(0);" data-tab="four">2020</a>
+                            <a href="javascript:void(0);" data-tab="five">2021</a>
+                            <a href="javascript:void(0);" data-tab="six">2022</a>
+                            <a href="javascript:void(0);" data-tab="seven">2023</a>
+                          </nav>
+                    </div>
+                   </div>
+                      
+                      <div class="tabContainer">
+                      <div id="one" class="Tabcondent active">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2017 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
                         </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">ALICHE CHIJIOKE OTI <br> </a></h3>
-                            <div class="designation">Executive Director</div>
-                            <div class="text">Aliche Chijioke Oti holds a BSc in Political Science and Public Administration from University of Uyo, Uyo, Akwa Ibom State.
-                            He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
-                            <br>
-                            Aliche is the Executive Director for VACO GAS SOLUTIONS LIMITED. Prior to joining Vaco Gas, Aliche served as the Managing Director for Auto Gas Limited, a Petroleum and Gas Marketing Company providing marketing and distribution services to individuals and Corporates across Nigeria.
-                            <br>
-                            Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
-                            <br>
-                            Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
-                            He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
+                      </div>
+                      <div id="two" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2018 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
                         </div>
+                      </div>
+                      <div id="three" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img3.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2019 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                      <div id="four" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2020 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                      <div id="five" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2021 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                      <div id="six" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img3.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2022 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                      <div id="seven" class="Tabcondent">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="tabs-images">
+                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="tabs-history-content">
+                                    <h2>2023 - Founded In Los Angeles</h2>
+                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
+                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
+                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
                     </div>
                 </div>
-                
             </div>
         </div>
-    </section>
-    <!--End Team Section-->
-    
-   <!--Call To Action Section-->
-   <section class="call-to-action-section" style="background-image:url(/homeassets/images/background/5.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Have any questions relating to CNG?</h2>
-                </div>
-                <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+    </div>
+</div>
+  <!--===== ABOUT HISTORY ENDS=======-->
+
+<!--===== TEAM STARTS =======-->
+<div class="team7-section-area sp3">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 m-auto">
+                <div class="team6-header text-center">
+                    <span data-aos="fade-up" data-aos-duration="800">Our Experienced Team</span>
+                    <h2 data-aos="fade-up" data-aos-duration="1000">
+                        
+                        <span class="defence">Leadership</span>
+                    </h2>
                 </div>
             </div>
         </div>
-    </section>
-    <!--End Call To Action Section-->
+        <div class="row">
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/ephraim.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Chief Ephraim Faloughi Spiff </a>
+                        <p>Chairman</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/nosike.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Dr. Nosike Agokei  </a>
+                        <p>Non-Executive Director</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/ego.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Dr. Ego Obi </a>
+                        <p>Non-Executive Director</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/omozusi.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Omozusi Iredia </a>
+                        <p>Group C.E.O</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/ivie.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Ivie Omorogbe</a>
+                        <p>Managing Director</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                <div class="team6-main-boxarea">
+                    <div class="team6-boxarea">
+                        <div class="team6-img">
+                            <img src="/homeassets/img/team/nicholas.webp" alt="" />
+                        </div>
+                        <div class="team6-images">
+                            <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                            <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                        </div>
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <a href="team1.html">Nicholas Otenson </a>
+                        <p>Chief Compliance Officer</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--===== TEAM ENDS =======-->
 @endsection

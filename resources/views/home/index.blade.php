@@ -1,762 +1,973 @@
 @extends('home.layout.layout')
 
 @section('content')
- <!--Main Slider-->
- <section class="main-slider">
-    	
-        <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
-            <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
-                <ul>
-                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="/homeassets/images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical"  >
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/motherstation.jpeg"> 
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['650','700','650','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['-80','-90','-70','-80']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<h2>Powering Progress <br> Through Clean Energy Solutions  </h2>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['650','700','650','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['80','60','60','40']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<div class="text !text-white" style="color:white;">Vaco Gas is a leading provider of Compressed Natural Gas (CNG) solutions. <br> </div>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['550','550','550','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['150','130','130','130']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<a href="/about" class="know_more"><span class="icon flaticon-right-arrow-1"></span> Know More About Us</a>
-                    </div>
-                    
-                    </li>
-                    
-                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1687" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="/homeassets/images/main-slider/image-2.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/vacotruck.jpg"> 
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['550','800','750','500']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['-80','-80','-70','-80']"
-                    data-x="['right','right','right','right']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<h2>CNG Compression and Transport</h2>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['550','800','750','500']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['80','40','50','40']"
-                    data-x="['right','right','right','right']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<div class="text"></div>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['550','800','750','500']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['150','110','130','130']"
-                    data-x="['right','right','right','right']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<a href="about.html" class="know_more"><span class="icon flaticon-right-arrow-1"></span> </a>
-                    </div>
-                    
-                    </li>
-                    
-                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="/homeassets/images/main-slider/image-3.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/cngimage1.jpeg"> 
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['650','700','650','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['-80','-90','-70','-80']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<h2> Driving Sustainability<br> </h2>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['650','700','650','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['80','60','60','40']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<div class="text">Your Partner in  Gas CNG Solutions </div>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['550','550','550','460']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['150','130','130','130']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-                    style="z-index: 7; white-space: nowrap;">
-                    	<a href="/about" class="know_more"><span class="icon flaticon-right-arrow-1"></span> Meet Our Expert team</a>
-                    </div>
-                    
-                    </li>
-                    
-                </ul>
-            </div>
+<!--===== WELCOME STARTS =======-->
+<div class="slider-carousel-area owl-carousel">
+    <div class="welcome6-section-area">
+        <img src="/homeassets/img/bg1.webp" alt="" class="homepage6-bg">
+        <div class="lawer-images">
+            <!-- <img src="/homeassets/assets/img/icons/law-img7.png" alt="" class="law"> -->
+            <!-- <img src="/homeassets/assets/img/bacground/Polygon1.png" alt="" class="Polygon1"> -->
+            <img src="/homeassets/assets/img/bacground/Polygon11.png" alt="" style="height:100%!important" class="Polygon2">
         </div>
-    </section>
-    <!--End Main Slider-->
-
-      <!--Career Section-->
-      <section class="career-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Video Column-->
-                <div class="video-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="image">
-                        	<img src="/homeassets/images/cngcar.webp" alt="" />
-                            <a href="https://www.youtube.com/watch?v=VPA0WyVUEMc" class="lightbox-image play-btn">
-                                <span class="icon flaticon-play-button-3"></span>
-                                Play Video
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>About Us</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        <div class="text">Vaco Gas is a Nigerian midstream to downstream company seeking to deliver smart energy solutions to a wide spectrum of customers with a strategic focus on the natural gas value chain. Our strategic priorities include gas sourcing, distribution and technical solutions for gas utilisation via pipeline CNG or LNG.</br>
-                        Our business model is geared towards providing cleaner, cost-effective natural gas for power generation, vehicle transportation and manufacturing processes in infrastructure stranded markets within and beyond  the emerging industrial hubs of South Eastern Nigeria.</div>
-                        <ul class="list-style-one">
-                        	<!-- <li><strong>Our Vision</strong>Mission is to facilitate the widespread adoption of clean and efficient energy solutions, thereby contributing to a greener and more sustainable future for generations to come</li> -->
-                            <li><strong>Our Vision</strong>To be a leader in innovative energy solutions in sub-saharan Africa </li>
-                            <li><strong>Our Mission</strong>To deepen energy utilization in immediate markets by facilitating smart and efficient energy solutions to a differentiated cross-section of customers. </li>
-                        </ul>
-                        <!-- <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a> -->
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Career Section-->
-
-    <!--Market Section Three-->
-    <section class="market-section-three">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-                <h2>Our Offerings</h2>
-                <div class="separator"></div>
-            </div>
-            <div class="three-item-carousel owl-carousel owl-theme">
-            	
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                            <h3><a href="#">Technical <br> Study </a></h3>
-                            
-                        </div>
-                        <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/study1.jpg" height="50" alt="" /></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                            <h3><a href="#">CNG Compression <br> and Transport</a></h3>
-                            
-                        </div>
-                        <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/cng-tanker.jpg" alt="" /></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                            <h3><a href="#">CNG Conversion Services <br> With Appropriate Kit</a></h3>
-                           
-                        </div>
-                        <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/storage2.jpg" alt="" /></a>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                            <h3><a href="#">CNG Daughter </br> Stations</a></h3>
-                        </div>
-                        <div class="lower-box">
-                        	<a href="#"><img src="/homeassets/images/daughterstation1.jpg"  alt="" /></a>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Market Section Three-->
-    
-
-   	<!--Market Section-->
-    <section class="market-section" style="background-image:url(/homeassets/images/background/2.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Column-->
-                <div class="title-column m-block col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title light">
-                        	<h2>Products and Services:</h2>
-                            <div class="separator"></div>
-                        </div>
-                       
-                        <a href="#" class="view_all"><span class="icon flaticon-right-arrow-1"></span> View All Sectors</a>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<h3><a href="#">CNG Conversion <br>Kits </a></h3>
-                        <div class="text">We offer high-quality conversion kits that enable vehicles to run on CNG, providing a cost-effective and environmentally friendly alternative to traditional fuels.</div>
-                        <div class="icon-box">
-                        	<span class="icon flaticon-conveyor"></span>
-                        </div>
-                        <a href="#" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<h3><a href="#">CNG Refueling <br> Station</a></h3>
-                        <div class="text">Our turnkey solutions include the design, installation, and maintenance of CNG refueling stations for fleet operators, municipalities, and private businesses.</div>
-                        <div class="icon-box">
-                        	<span class="icon flaticon-demolishing"></span>
-                        </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<h3><a href="#">CNG Vehicle <br> Maintenance</a></h3>
-                        <div class="text">We provide comprehensive maintenance services for CNG vehicles, ensuring optimal performance and longevity.</div>
-                        <div class="icon-box">
-                        	<span class="icon flaticon-valve"></span>
-                        </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<h3><a href="#">Consultation and <br>Training  </a></h3>
-                        <div class="text">Our team of experts offers consultation services and training programs to help clients navigate the transition to CNG technology seamlessly.</div>
-                        <div class="icon-box">
-                        	<span class="icon flaticon-boat"></span>
-                        </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<h3><a href="#">Fleet Management </br> Solutions </a></h3>
-                        <div class="text">We offer advanced fleet management software designed to optimize operational efficiency, reduce costs, and minimize environmental impact.</div>
-                        <div class="icon-box">
-                        	<span class="icon flaticon-flasks"></span>
-                        </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Market Section-->
-    <section class="cng-advantage">
         <div class="container">
-            <div class="sec-title centered">
-                <h2>VACO GAS VALUE CHAIN</h2>
-                <div class="separator"></div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="welcome6-header-area">
+                        <span data-aos="fade-left" data-aos-duration="800">Value in: Value Out</span>
+                        <h1 data-aos="fade-left" data-aos-duration="900">  Certari,<br>
+                        Endless Possibilities </h1>
+                        <p data-aos="fade-left" data-aos-duration="1000">Certari Asset Management has grown to become a significant player in the asset management sector, quickly earning a reputation for our innovative and collaborative approach to investment.</p>
+                        <div class="div" data-aos="fade-left" data-aos-duration="1200">
+                        <a href="/about" class="welcome6-btn">Learn More<i class="fa-light fa-arrow-right"></i></a>
+                        <!-- <a href="contact2.html" class="welcome7-btn">Learn More <i class="fa-light fa-arrow-right"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2"></div>
+                <div class="col-lg-4" >
+                    <div class="welcome6-elements-area">
+                        <div class="polygon-author aniamtion-key-1" style="background-image: url(assets/img/elements/elementor33.svg); background-position: center; background-repeat: no-repeat; background-size: cover; display: inline-block;">
+                            <div class="polygon-arrow">
+                                <span><a href="contact1.html"><i class="fa-regular fa-arrow-right"></i></a></span>
+                            <a href="contact1.html">Free Case Review</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="welcome6-section-area">
+        <img src="/homeassets/img/bg2.webp" alt="" class="homepage6-bg">
+        <div class="lawer-images">
+             <img src="/homeassets/assets/img/icons/law-img7.png" alt="" class="law">
+            <!-- <img src="/homeassets/assets/img/bacground/Polygon1.png" alt="" class="Polygon1"> -->
+            <img src="/homeassets/assets/img/bacground/Polygon11.png" alt="" style="height:100%!important" class="Polygon2">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="welcome6-header-area">
+                        <span data-aos="fade-left" data-aos-duration="800">Dedicated Personal Injury Representation</span>
+                        <h1 data-aos="fade-left" data-aos-duration="900">Injury Compensation Starts Here: Proven Legal Representation</h1>
+                        <p data-aos="fade-left" data-aos-duration="1000">Our team of dedicated & experienced attorneys is committed to guiding you through this difficult time, we believe in empowering our clients.</p>
+                        <div class="div" data-aos="fade-left" data-aos-duration="1200">
+                        <a href="contact1.html" class="welcome6-btn">Schedule A Consultation <i class="fa-light fa-arrow-right"></i></a>
+                        <a href="contact2.html" class="welcome7-btn">Learn More <i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2"></div>
+                <div class="col-lg-4" >
+                    <div class="welcome6-elements-area">
+                        <div class="polygon-author aniamtion-key-1" style="background-image: url(assets/img/elements/elementor33.svg); background-position: center; background-repeat: no-repeat; background-size: cover; display: inline-block;">
+                            <div class="polygon-arrow">
+                                <span><a href="contact1.html"><i class="fa-regular fa-arrow-right"></i></a></span>
+                            <a href="contact1.html">Free Case Review</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="welcome6-section-area">
+        <img src="/homeassets/assets/img/images/homepage6-bg.png" alt="" class="homepage6-bg">
+        <div class="lawer-images">
+             <img src="/homeassets/assets/img/icons/law-img7.png" alt="" class="law">
+            <img src="/homeassets/assets/img/bacground/Polygon1.png" alt="" class="Polygon1">
+            <img src="/homeassets/assets/img/bacground/Polygon11.png" alt="" class="Polygon2">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="welcome6-header-area">
+                        <span data-aos="fade-left" data-aos-duration="800">Dedicated Personal Injury Representation</span>
+                        <h1 data-aos="fade-left" data-aos-duration="900">Injury Compensation Starts Here: Proven Legal Representation</h1>
+                        <p data-aos="fade-left" data-aos-duration="1000">Our team of dedicated & experienced attorneys is committed to guiding you through this difficult time, we believe in empowering our clients.</p>
+                        <div class="div" data-aos="fade-left" data-aos-duration="1200">
+                        <a href="contact1.html" class="welcome6-btn">Schedule A Consultation <i class="fa-light fa-arrow-right"></i></a>
+                        <a href="contact2.html" class="welcome7-btn">Learn More <i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2"></div>
+                <div class="col-lg-4" >
+                    <div class="welcome6-elements-area">
+                        <div class="polygon-author aniamtion-key-1" style="background-image: url(assets/img/elements/elementor33.svg); background-position: center; background-repeat: no-repeat; background-size: cover; display: inline-block;">
+                            <div class="polygon-arrow">
+                                <span><a href="contact1.html"><i class="fa-regular fa-arrow-right"></i></a></span>
+                            <a href="contact1.html">Free Case Review</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+</div>
+<!--===== WELCOME ENDS =======-->
+
+    <!--===== ABOUT STARTS =======-->
+    <div class="about7-section-area sp1">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="about5-images-area">
+                        <div class="row">
+                            <div class="col-lg-6" data-aos="fade-up" data-aos-duration="800">
+                                <div class="about5-img1">
+                                    <img src="/homeassets/img/about1.webp" alt="" />
+                                </div>
+                            </div>
+                            <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000">
+                                <div class="about5-img1">
+                                    <div class="space50"></div>
+                                    <img src="/homeassets/img/about2.webp" alt="" />
+                                </div>
+                            </div>
+                            <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1200">
+                                <div class="about5-img1 about5-textarea">
+                                    <h1><span class="counter">25</span>+</h1>
+                                    <p>Years Of Experiance</p>
+                                    <img src="/homeassets/assets/img/images/about7-img1.png" alt="" />
+                                    <p>Divorce Satisfied Clients</p>
+                                </div>
+                            </div> -->
+                            <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1400">
+                                <div class="space30"></div>
+                                <div class="about5-img1">
+                                    <img src="/homeassets/assets/img/images/about7-img3.png" alt="" />
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="about7-header-area">
+                        <span data-aos="fade-left" data-aos-duration="600">About Us</span>
+                        <h2 data-aos="fade-left" data-aos-duration="800">
+                            Simple, Sound Financial 
+                            <span class="defence">Advice</span>
+                        </h2>
+                        <p data-aos="fade-left" data-aos-duration="900">
+                            Founded in XXX, Certari Asset Management (Certari) is a leading asset manager offering a wide range of asset management services. We are a fast paced, results-driven and innovative organization, setting unique standards of excellence  in the Nigerian Investment market and beyond.
+                        </p>
+                        <h3 data-aos="fade-left" data-aos-duration="1000">
+                            We strive to do this in the following areas:
+                        </h3>
+                        <div class="list-about" data-aos="fade-left" data-aos-duration="1100">
+                            <ul>
+                                <li>
+                                    <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Trustworthiness and Credibility</a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Innovation and Adaptability</a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Financial Inclusion Initiatives</a>
+                                </li>
+                                <li>
+                                    <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Market Competitiveness and Differentiation</a>
+                                </li>
+                            </ul>
+                            <!-- <ul>
+                                <li>
+                                    <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Contributing to Economic Growth</a>
+                                </li>
+                            </ul> -->
+                        </div>
+                        <div class="div" data-aos="fade-left" data-aos-duration="1200">
+                            <a href="contact1.html" class="welcome6-btn">Legal Support Needed<i
+                                    class="fa-regular fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--===== ABOUT ENDS =======-->
+
+    <!--===== SERVICES STARTS =======-->
+    <div class="service7-section-area sp3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 m-auto">
+                    <div class="service7-header-area text-center">
+                        <span data-aos="fade-up" data-aos-duration="800">Analysis</span>
+                        <h4 data-aos="fade-up" data-aos-duration="1000">
+                            Expert Perspectives
+                        </h4>
+                    </div>
+                </div>
             </div>
             <div class="row">
-                <div class="col-12">
-                    <img src="/homeassets/images/cngscheme.jpg" width="100%" alt="">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="800">
+                    <div class="service7-box-area">
+                        <div class="service7-boxarea">
+                            <div class="service-images">
+                                <img src="/homeassets/img/graph.webp" alt="" />
+                            </div>
+                            <div class="service7-author-area">
+                                <!-- <div class="service-icons">
+                                    <img src="/homeassets/assets/img/icons/service7-img1.svg" alt="" />
+                                </div> -->
+                                <div class="service-7-content py-2">
+                                    <a href="service-single.html" class="fs-5">March 2024: Monetary Policy Rate (MPR)</a>
+                                    <div class="service7-content">
+                                        <p>
+                                           ..,
+                                        </p>
+                                        <a href="service-single.html">Read More <i
+                                                class="fa-regular fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="800">
+                    <div class="service7-box-area">
+                        <div class="service7-boxarea">
+                            <div class="service-images">
+                                <img src="/homeassets/img/graph2.webp" alt="" />
+                            </div>
+                            <div class="service7-author-area">
+                                <!-- <div class="service-icons">
+                                    <img src="/homeassets/assets/img/icons/service7-img1.svg" alt="" />
+                                </div> -->
+                                <div class="service-7-content py-2">
+                                    <a href="service-single.html" class="fs-5">March 2024: Consumer Price Index (CPI)</a>
+                                    <div class="service7-content">
+                                        <p>
+                                           ..
+                                        </p>
+                                        <a href="service-single.html">Read More <i
+                                                class="fa-regular fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="800">
+                    <div class="service7-box-area">
+                        <div class="service7-boxarea">
+                            <div class="service-images">
+                                <img src="/homeassets/img/graph2.webp" alt="" />
+                            </div>
+                            <div class="service7-author-area">
+                                <!-- <div class="service-icons">
+                                    <img src="/homeassets/assets/img/icons/service7-img1.svg" alt="" />
+                                </div> -->
+                                <div class="service-7-content py-2">
+                                    <a href="service-single.html" class="fs-5">Nigeria 2024 Economic Outlook</a>
+                                    <div class="service7-content">
+                                        <p>
+                                            ...
+                                        </p>
+                                        <a href="service-single.html">Read More <i
+                                                class="fa-regular fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+    <!--===== SERVICES ENDS =======-->
 
-    <!--Market Section Four-->
-    <section class="market-section-four">
-    	<div class="auto-container">
-        	<!--Sec Title-->
-            <div class="sec-title centered">
-            	<h2>Why VacoGas</h2>
-                <div class="separator"></div>
+    <!--===== WORKS STARTS =======-->
+    <!-- <div class="works7-section-area sp1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 m-auto">
+                    <div class="work7-header text-center">
+                        <span data-aos="fade-up" data-aos-duration="800">How It Works</span>
+                        <h2 data-aos="fade-up" data-aos-duration="1000">
+                            Experience Criminal Defense Attorneys Ready to
+                            <span class="defence">Fight</span>
+                        </h2>
+                    </div>
+                </div>
             </div>
-            
-            <div class="row clearfix">
-            	
-                <!--Market Block-->
-                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<a href="#"><img src="/homeassets/images/safety.jpeg" alt="" /></a>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-piston"></span>
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="space50"></div>
+                            <div class="work-author-box" data-aos="fade-right" data-aos-duration="1000">
+                                <div class="work-content">
+                                    <a href="service-single.html">Consultation & Assessment</a>
+                                    <p>
+                                        Schedule a consultation where we are law discuss your case
+                                        detail.
+                                    </p>
+                                </div>
+                                <div class="works-icon">
+                                    <img src="/homeassets/assets/img/icons/works-img1.svg" alt="" />
+                                </div>
+                                <div class="point">
+                                    <h2>01</h2>
+                                </div>
                             </div>
-                        	<h3><a href="#">Quality and Safety</a></h3>
-                            <div class="text">IN HOUSE GLOBAL ENGINEERING & DESIGN TEAM</div>
-                                      </div>
-                    </div>
-                </div>
-                
-                <!--Market Block-->
-                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<a href="#"><img src="/homeassets/images/reliable.jpeg" alt="" /></a>
                         </div>
-                        <div class="lower-content">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-demolishing"></span>
+                        <div class="space60"></div>
+                        <div class="col-lg-12">
+                            <div class="work-author-box" data-aos="fade-right" data-aos-duration="1200">
+                                <div class="work-content">
+                                    <a href="service-single.html">Tailored Legal Strategies</a>
+                                    <p>
+                                        Our firm provides aggressive is representation in court
+                                        coupled
+                                    </p>
+                                </div>
+                                <div class="works-icon icon2">
+                                    <img src="/homeassets/assets/img/icons/work-img2.svg" alt="" />
+                                </div>
+                                <div class="point">
+                                    <h2>02</h2>
+                                </div>
                             </div>
-                        	<h3><a href="#">Reliability</a></h3>
-                            <div class="text">24 X 7 CNG SUPPLY ,MULTIPLE COMPRESSION STATIONS ACROSS NIGERIA </div>
-                          
                         </div>
                     </div>
                 </div>
-                
-                <!--Market Block-->
-                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<a href="#"><img src="/homeassets/images/energysaving.jpeg" alt="" /></a>
+                <div class="col-lg-6">
+                    <div class="works-modify-area">
+                        <div class="work-img">
+                            <img src="/homeassets/assets/img/images/works-img1.png" alt="" class="works-img1" data-aos="zoom-out"
+                                data-aos-duration="1000" />
+                            <img src="/homeassets/assets/img/elements/elementor35.png" alt="" class="elementor35 aniamtion-key-5" />
                         </div>
-                        <div class="lower-content">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-power"></span>
+                        <img src="/homeassets/assets/img/elements/elementor36.png" alt="" class="elementor36 d-none d-lg-block" />
+                        <img src="/homeassets/assets/img/elements/elementor37.png" alt="" class="elementor37 d-none d-lg-block" />
+                        <img src="/homeassets/assets/img/elements/elementor38.png" alt="" class="elementor38 d-none d-lg-block" />
+                        <img src="/homeassets/assets/img/elements/elementor39.png" alt="" class="elementor39 d-none d-lg-block" />
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="space50"></div>
+                            <div class="work-author-box box2" data-aos="fade-left" data-aos-duration="1000">
+                                <div class="work-content">
+                                    <a href="service-single.html">Implementation Execution</a>
+                                    <p>
+                                        Expect clear and open lawyer communication at every step.
+                                    </p>
+                                </div>
+                                <div class="works-icon icon3">
+                                    <img src="/homeassets/assets/img/icons/works-img3.svg" alt="" />
+                                </div>
+                                <div class="point">
+                                    <h2>03</h2>
+                                </div>
                             </div>
-                        	<h3><a href="#">Energy Savings</a></h3>
-                            <div class="text">CNG ~ 30% CHEAPER THAN DIESEL</div>
+                        </div>
+                        <div class="space60"></div>
+                        <div class="col-lg-12">
+                            <div class="work-author-box box2" data-aos="fade-left" data-aos-duration="1200">
+                                <div class="work-content">
+                                    <a href="service-single.html">Our Legal Support</a>
+                                    <p>
+                                        Your satisfaction and peace of a lawyer mind matter most
+                                        to us.
+                                    </p>
+                                </div>
+                                <div class="works-icon icon4">
+                                    <img src="/homeassets/assets/img/icons/works-img4.svg" alt="" />
+                                </div>
+                                <div class="point">
+                                    <h2>04</h2>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                
-            </div>
-            
-          
-        </div>
-    </section>
-    <!--End Market Section Four-->
-    
-
-  
-    
-  
-    <!--Informations Section-->
-    <!-- <section class="informations-section" style="background-image:url(/homeassets/images/background/3.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            
-                <div class="info-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-layers"></span>
-                        </div>
-                        <h3><a href="#">1.Exploration</a></h3>
-                    </div>
-                </div>
-                <div class="info-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-oil-platform"></span>
-                        </div>
-                        <h3><a href="#">2.Development</a></h3>
-                    </div>
-                </div>
-                
-                <div class="info-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-idea-1"></span>
-                        </div>
-                        <h3><a href="#">3.Production</a></h3>
-                    </div>
-                </div>
-                
-                <div class="info-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-security"></span>
-                        </div>
-                        <h3><a href="#">4.Abandonment</a></h3>
-                    </div>
-                </div>
-                
             </div>
         </div>
-    </section> -->
-    <!--End Informations Section-->
+    </div> -->
+    <!--===== WORKS ENDS =======-->
 
-      <!--Market Section Three-->
-      <section class="market-section-three">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-                <h2>Core Values</h2>
-                <div class="separator"></div>
+    <!--===== CASE STUDY STARTS =======-->
+    <div class="case-study7-section-area sp1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="case-study-header">
+                        <span data-aos="fade-up" data-aos-duration="800">Our Case Studies</span>
+                        <h2 data-aos="fade-up" data-aos-duration="1000">
+                            Our
+                            <span class="defence">Partners</span>
+                        </h2>
+                    </div>
+                </div>
             </div>
-            <div class="three-item-carousel owl-carousel owl-theme">
-            	
-                
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-demolishing"></span>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="casestudy-carousel-area owl-carousel">
+                        <div class="case7-study-area">
+                            <div class="case-study7-boxarea">
+                                <div class="case-study-casousel-img">
+                                    <img src="/homeassets/img/clients/access.webp" alt="" />
+                                </div>
                             </div>
-                            <h3><a href="market-single.html">Sustainability </a></h3>
-                            <div class="text">We are dedicated to reducing carbon emissions and promoting environmental stewardship through the widespread adoption of CNG technology.</div>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-power"></span>
+
+                        <div class="case7-study-area">
+                            <div class="case-study7-boxarea">
+                                <div class="case-study-casousel-img">
+                                    <img src="/homeassets/img/clients/coronation.webp" alt="" />
+                                </div>
                             </div>
-                            <h3><a href="market-single.html">Innovation</a></h3>
-                            <div class="text">We continuously strive to develop cutting-edge solutions that optimize efficiency and performance in the transportation industry.</div>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-piston"></span>
+
+                        <div class="case7-study-area">
+                            <div class="case-study7-boxarea">
+                                <div class="case-study-casousel-img">
+                                    <img src="/homeassets/img/clients/kpmg.webp" alt="" />
+                                </div>
                             </div>
-                            <h3><a href="market-single.html">Customer Focus</a></h3>
-                            <div class="text">We prioritize the needs of our clients and are committed to delivering exceptional service and support.</div>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-demolishing"></span>
+
+                        <div class="case7-study-area">
+                            <div class="case-study7-boxarea">
+                                <div class="case-study-casousel-img">
+                                    <img src="/homeassets/img/clients/uba.webp" alt="" />
+                                </div>
                             </div>
-                            <h3><a href="market-single.html">Integrity</a></h3>
-                            <div class="text">We conduct our business with the highest standards of honesty, transparency, and ethical conduct.</div>
                         </div>
-                     
-                    </div>
-                </div>
-                
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-power"></span>
+
+                        <div class="case7-study-area">
+                            <div class="case-study7-boxarea">
+                                <div class="case-study-casousel-img">
+                                    <img src="/homeassets/img/clients/wigwe.webp" alt="" />
+                                </div>
                             </div>
-                            <h3><a href="market-single.html">Collaboration</a></h3>
-                            <div class="text">We believe in the power of partnership and actively collaborate with stakeholders to drive positive change in the industry.</div>
                         </div>
+
                         
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <!--===== CASE STUDY ENDS =======-->
 
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-piston"></span>
+    <!--===== TEAM STARTS =======-->
+    <div class="team7-section-area sp3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 m-auto">
+                    <div class="team6-header text-center">
+                        <span data-aos="fade-up" data-aos-duration="800">Our Experienced Team</span>
+                        <h2 data-aos="fade-up" data-aos-duration="1000">
+                            Defend Your Rights Our Dedicated Legal
+                            <span class="defence">Team</span>
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+                    <div class="team6-main-boxarea">
+                        <div class="team6-boxarea">
+                            <div class="team6-img">
+                                <img src="/homeassets/assets/img/images/team6-img1.png" alt="" />
                             </div>
-                            <h3><a href="market-single.html">Safety</a></h3>
-                            <div class="text">Work place safety is our cardinal value  </div>
+                            <div class="team6-images">
+                                <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                                <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                            </div>
+                            <div class="social-links">
+                                <ul>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        
+                        <div class="team-content text-center">
+                            <a href="team1.html">Jofra Archer</a>
+                            <p>Founder Partner</p>
+                        </div>
                     </div>
                 </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Market Section Three-->
-    
-    
-    
-    
-    <!--Testimonial Section-->
-    <!-- <section class="testimonial-section">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-                <h2>Testimonials</h2>
-                <div class="separator"></div>
-            </div>
-            <div class="testimonial-two-item owl-carousel owl-theme">
-            	
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-1.png" alt="" />
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
+                    <div class="team6-main-boxarea">
+                        <div class="team6-boxarea">
+                            <div class="team6-img">
+                                <img src="/homeassets/assets/img/images/team6-img2.png" alt="" />
+                            </div>
+                            <div class="team6-images">
+                                <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                                <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                            </div>
+                            <div class="social-links">
+                                <ul>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
+                        <div class="team-content text-center">
+                            <a href="team1.html">Mitchel Starc</a>
+                            <p>Senior Attorneys</p>
                         </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
-                
-                <div class="testimonial-block style-two">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-2.png" alt="" />
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
+                    <div class="team6-main-boxarea">
+                        <div class="team6-boxarea">
+                            <div class="team6-img">
+                                <img src="/homeassets/assets/img/images/team6-img1.png" alt="" />
+                            </div>
+                            <div class="team6-images">
+                                <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
+                                <img src="/homeassets/assets/img/bacground/polygon4.png" alt="" class="polygon4" />
+                            </div>
+                            <div class="social-links">
+                                <ul>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
+                        <div class="team-content text-center">
+                            <a href="team1.html">MD. Saifuddin</a>
+                            <p>Personal Injury Law</p>
                         </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
-                </div>
-                    
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-1.png" alt="" />
-                        </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
-                        </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <div class="testimonial-block style-two">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-2.png" alt="" />
-                        </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
-                        </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-1.png" alt="" />
-                        </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
-                        </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-                <div class="testimonial-block style-two">
-                    <div class="inner-box">
-                        <div class="author-img">
-                            <img src="/homeassets/images/resource/author-2.png" alt="" />
-                        </div>
-                        <div class="quote-icon">
-                            <span class="icon flaticon-quotation"></span>
-                        </div>
-                        <h3>Teena Venanda</h3>
-                        <div class="location">Newyork City</div>
-                        <div class="text">Must explain to you how mistaken our  denouncing pleasure & praising pain was born we will give expound human happiness pursue pleasure...</div>
-                        <a href="#" class="read">Continue to Read <span class="icon flaticon-right-arrow-1"></span></a>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section> -->
-    <!--End Testimonial Section-->
-    
-    <!--Clients Section-->
-    <!-- <section class="clients-section">
-        <div class="auto-container">
-            
-            <div class="sponsors-outer">
-               
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/6.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/7.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/8.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/9.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/6.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="/homeassets/images/clients/7.png" alt=""></a></figure></li>
-                </ul>
-            </div>
-            
-        </div>
-    </section> -->
-    <!--End Clients Section-->
-    
-    <!--Call To Action Section-->
-    <section class="call-to-action-section" style="background-image:url(/homeassets/images/background/5.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Have any questions </h2>
-                </div>
-                <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="/contact">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
                 </div>
             </div>
         </div>
-    </section>
-    <!--End Call To Action Section-->
+    </div>
+    <!--===== TEAM ENDS =======-->
+
+    <!--===== TESTIMONIAL STARTS =======-->
+    <div class="testimonial7-section-area sp1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 m-auto">
+                    <div class="testimonial7-haeder text-center">
+                        <span data-aos="fade-up" data-aos-duration="800">Our Testimonials</span>
+                        <h2 data-aos="fade-up" data-aos-duration="1000">
+                            From Client to Advocates, Dedicated Legal
+                            <span class="defence">Trust</span>
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12" data-aos="fade-down" data-aos-duration="1000">
+                    <div class="testimonial7-main-area owl-carousel">
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img1.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Shakib Al Hasan</a>
+                                    <p>@personal injury law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img2.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Tanzid Tamim</a>
+                                    <p>@business law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img3.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Taskin Ahmed</a>
+                                    <p>@workplace injury</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img1.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Shakib Al Hasan</a>
+                                    <p>@personal injury law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img2.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Tanzid Tamim</a>
+                                    <p>@business law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img3.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Taskin Ahmed</a>
+                                    <p>@workplace injury</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img1.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Shakib Al Hasan</a>
+                                    <p>@personal injury law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img2.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Tanzid Tamim</a>
+                                    <p>@business law</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="testimonial7-area">
+                            <div class="quito7-img">
+                                <img src="/homeassets/assets/img/icons/quito10.svg" alt="" />
+                            </div>
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-star"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><span>(5) Rating</span></a>
+                                </li>
+                            </ul>
+                            <p>
+                                "I was lost in a legal maze until I found Law Firm Name. Their
+                                dedication and expertise guide me through a hard case
+                                challenging case, their team's support.
+                            </p>
+                            <div class="mans-img-area">
+                                <div class="img">
+                                    <img src="/homeassets/assets/img/images/testimonial7-img3.png" alt="" />
+                                </div>
+                                <div class="img-content">
+                                    <a href="#">Taskin Ahmed</a>
+                                    <p>@workplace injury</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--===== TESTIMONIAL ENDS =======-->
+
+
+
+    
+    
+    
 @endsection

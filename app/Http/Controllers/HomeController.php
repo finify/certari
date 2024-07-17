@@ -19,4 +19,14 @@ class HomeController extends Controller
         return view('home.contact');
     }
 
+    public function assetmanagement(){
+        return view('home.assetmanagement');
+    }
+    public function principalconsulting(){
+        return view('home.principalconsulting');
+    }
+    public function greenrealty(){
+        return view('home.greenrealty');
+    }
+
 }
