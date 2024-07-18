@@ -118,17 +118,17 @@
             <div class="col-lg-6">
                 <div class="about5-images-area">
                     <div class="row">
-                        <div class="col-lg-6" data-aos="fade-up" data-aos-duration="800">
+                        <div class="col-lg-12" data-aos="fade-up" data-aos-duration="800">
                             <div class="about5-img1">
-                                <img src="/homeassets/img/about1.webp" alt="" />
+                                <img src="/homeassets/img/homepageabout.jpg" alt="" />
                             </div>
                         </div>
-                        <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000">
+                        <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000">
                             <div class="about5-img1">
                                 <div class="space50"></div>
                                 <img src="/homeassets/img/about2.webp" alt="" />
                             </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1200">
                             <div class="about5-img1 about5-textarea">
                                 <h1><span class="counter">25</span>+</h1>
@@ -393,70 +393,7 @@
 </div> -->
 <!--===== WORKS ENDS =======-->
 
-<!--===== CASE STUDY STARTS =======-->
-<div class="case-study7-section-area sp1">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="case-study-header">
-                    <span data-aos="fade-up" data-aos-duration="800">Our Case Studies</span>
-                    <h2 data-aos="fade-up" data-aos-duration="1000">
-                        Our
-                        <span class="defence">Partners</span>
-                    </h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="casestudy-carousel-area owl-carousel">
-                    <div class="case7-study-area">
-                        <div class="case-study7-boxarea">
-                            <div class="case-study-casousel-img">
-                                <img src="/homeassets/img/clients/access.webp" alt="" />
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="case7-study-area">
-                        <div class="case-study7-boxarea">
-                            <div class="case-study-casousel-img">
-                                <img src="/homeassets/img/clients/coronation.webp" alt="" />
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="case7-study-area">
-                        <div class="case-study7-boxarea">
-                            <div class="case-study-casousel-img">
-                                <img src="/homeassets/img/clients/kpmg.webp" alt="" />
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="case7-study-area">
-                        <div class="case-study7-boxarea">
-                            <div class="case-study-casousel-img">
-                                <img src="/homeassets/img/clients/uba.webp" alt="" />
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="case7-study-area">
-                        <div class="case-study7-boxarea">
-                            <div class="case-study-casousel-img">
-                                <img src="/homeassets/img/clients/wigwe.webp" alt="" />
-                            </div>
-                        </div>
-                    </div>
-
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--===== CASE STUDY ENDS =======-->
 
 
 

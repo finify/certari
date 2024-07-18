@@ -10,7 +10,7 @@
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
                         <h1>About Us</h1>
-                        <a href="index.html">Home <span><i class="fa-light fa-angle-right"></i></span> About Us</a>
+                        <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> About Us</a>
                         <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                     </div>
                 </div>
@@ -26,29 +26,18 @@
         <div class="col-lg-6">
           <div class="about3-textarea">
             <span>About Us</span>
-            <h2>Navigating & Legal Maze with a Criminal Defense Expert</h2>
-          <p>Service providers can differentiate themselves by offering high-quality and reliable services. Airlines, for instance, promote their safety records and.</p>
-            <div class="about3-textarea-list">
-              <ul>
-                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Expertise & Knowledge</a></li>
-                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Quality & Reliability</a></li>
-              </ul>
-              <ul>
-                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Improved Efficiency</a></li>
-                <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Environment Benefits</a></li>
-              </ul>
-            </div>
+            <h2>What We Do</h2>
+            <p>In today's digital age, with fast-moving innovations and technology shaping the world into a global village, you need a partner to navigate the uncertainties of different terrains. With more opportunities sprouting around the world, the investment landscape gets more interesting - and complex too. Rapid climate changes, new technology, and economic realities are shaping the way our world works and how we can solve the world's challenges with purpose and value.</p>
+            <h2>Our Mission</h2>
             <div class="about3-pera-text">
-              <p>Some services emphasize environmental sustainability as a benefit, Car-sharing services like Zipcar promote reduced emissions and the use of fewer vehicles, contributing to a greener environment.</p>
+              <p>Helping clients to grow from success to significance.</p>
             </div>
-            <div class="div">
-              <a href="about.html" class="casebtn1">Request Case Evolution <span><i class="fa-regular fa-arrow-right"></i></span></a>
-            </div>
+            
           </div>
         </div>
         <div class="col-lg-6">
           <div class="about3-images-area">
-            <img src="/homeassets/assets/img/images/about-img3.png" alt="">
+            <img src="/homeassets/img/aboutimage1.jpg" alt="">
             <div class="elementors21">
               <img src="/homeassets/assets/img/elements/elementor21.png" alt="">
             </div>
@@ -109,161 +98,73 @@
 </div>
   <!--===== SERVICE ENDS=======-->
 
-  <!--===== ABOUT HISTORY STARTS=======-->
-<div class="about-history-sction-area sp1">
+<!--===== SERVICES-2 STARTS =======-->
+<div class="service-2-section-area sp1">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 m-auto">
-                <div class="history-header text-center">
-                    <span>Company History</span>
-                    <h2>Our History</h2>
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="services-all-images">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="service-img1" data-aos="zoom-in" data-aos-duration="1000">
+                                <img src="/homeassets/assets/img/images/service6-img7.png" alt="">
+                                <img src="/homeassets/assets/img/elements/elementor34.png" alt="" class="elementor34 keyframe5">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="second-service-img">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="images" data-aos="zoom-in" data-aos-duration="1200">
+                                            <img src="/homeassets/assets/img/images/service6-img8.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="space20"></div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="images" data-aos="zoom-in" data-aos-duration="1400">
+                                            <img src="/homeassets/assets/img/images/service6-img9.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 m-auto">
-                <div class="about-history-tabs">
-                   <div class="row">
-                    <div class="col-lg-10 m-auto">
-                        <nav class="tabs-nav">
-                            <a href="javascript:void(0);" data-tab="one" class="active">2017</a>
-                            <a href="javascript:void(0);" data-tab="two">2018</a>
-                            <a href="javascript:void(0);" data-tab="three">2019</a>
-                            <a href="javascript:void(0);" data-tab="four">2020</a>
-                            <a href="javascript:void(0);" data-tab="five">2021</a>
-                            <a href="javascript:void(0);" data-tab="six">2022</a>
-                            <a href="javascript:void(0);" data-tab="seven">2023</a>
-                          </nav>
-                    </div>
-                   </div>
-                      
-                      <div class="tabContainer">
-                      <div id="one" class="Tabcondent active">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2017 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="two" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2018 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="three" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2019 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="four" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2020 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="five" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2021 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="six" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2022 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                      <div id="seven" class="Tabcondent">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="tabs-images">
-                                    <img src="/homeassets/assets/img/images/history-img1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="tabs-history-content">
-                                    <h2>2023 - Founded In Los Angeles</h2>
-                                    <p><span>Drug Trafficking:</span>The distribution, manufacturing, or trafficking of the controlled substances, such as narcotics, cocaine, heroin, or lawsy law methamphetamine, in to be continue  violation of the Controlled.</p>
-                                    <p><span>White-Collar Crimes:</span> These involve financial or economic crimes, such as fraud, embezzlement, insider trading, tax evasion, and money.</p>
-                                    <p><span>Federal Conspiracy:</span> Engaging in a criminal conspiracy that spans multiple states or involves federal agencies can result in federal.</p>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                    </div>
+            <div class="col-lg-6">
+                <div class="service-2-header-area">
+                    <span data-aos="fade-left" data-aos-duration="600">Core Values</span>
+                    <h2 data-aos="fade-left" data-aos-duration="800">Our History</h2>
+                    <p class="pera-header" data-aos="fade-left" data-aos-duration="1000">“From little beginnings, with purpose and clarity, we are building a legacy of value-driven synergies that influence change across individuals, industries, and economies with sustainable results.”</p>
+                    <h2 data-aos="fade-left" data-aos-duration="800">Our People</h2>
+                    <p class="pera-header" data-aos="fade-left" data-aos-duration="1000">“Leading with strong corporate governance practices and oversight expertise spanning a wealth of experience, our Board of Directors is responsible for the strategic direction at Certari.”</p>
+                    
                 </div>
             </div>
         </div>
     </div>
 </div>
-  <!--===== ABOUT HISTORY ENDS=======-->
+<!--===== SEVICES-2 ENDS =======-->
+
+<!--===== CTA STARTS =======-->
+<div class="cta6-section-area sp4" style="background-image: url(/homeassets/assets/img/images/cta-bg1.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="cta6-header-area">
+          <h2 data-aos="fade-up" data-aos-duration="800">Certari Way</h2>
+          <P data-aos="fade-up" data-aos-duration="1000">Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
+          sustainable development and the welfare of our clients (Certarians). – schedule.</P>
+          <div class="div" data-aos="fade-up" data-aos-duration="1200">
+            <a href="/contact" class="welcome6-btn">Contact Us<i class="fa-light fa-arrow-right"></i></a>
+            <!-- <a href="contact2.html" class="welcome7-btn">Contact Us <i class="fa-light fa-arrow-right"></i></a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===== CTA ENDS =======-->
 
 <!--===== TEAM STARTS =======-->
 <div class="team7-section-area sp3">

@@ -62,17 +62,17 @@
                                     <ul>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-email2.svg" alt="" /><a
-                                                href="maito:demolawsy@gmail.com">demolawsy@gmail.com</a>
+                                                href="maito:inquiries@certari.com">
+                                                inquiries@certari.com</a>
                                         </li>
                                         <li>
-                                            <img src="/homeassets/assets/img/icons/footer-location1.svg" alt="" /><a href="#">8708
-                                                Technology Forest <br />
-                                                Pl Suite 125 -G, The <br />
-                                                Woodlands, TX 77381</a>
+                                            <img src="/homeassets/assets/img/icons/footer-location1.svg" alt="" /><a href="#">
+                                            1ST FLOOR ROCK TOWERS, ROCK DRIVE,</br>
+                                            LEKKI PHASE 1, LAGOS NIGERIA.</a>
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-phn.svg" alt="" /><a
-                                                href="tel:123-456-7890">123-456-7890</a>
+                                                href="tel:+234(0)8083425374">+234(0)8083425374</a>
                                         </li>
                                     </ul>
                                 </div>
