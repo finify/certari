@@ -298,7 +298,7 @@
             </ul>
 
             <div class="allmobilesection">
-                <a href="contact1.html" class="welcome5-btn">Get Started</a>
+                <!-- <a href="contact1.html" class="welcome5-btn">Get Started</a> -->
                 <div class="single-footer">
                     <h3>Contact Info</h3>
                     <div class="footer4-contact-info">

@@ -183,12 +183,14 @@
 <div class="cta5-section-area sp4" style="background-image: url(/homeassets/assets/img/images/cta-bg1.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-5">
+      <div class="col-lg-12">
         <div class="cta5-header-area">
           <h2 data-aos="fade-up" data-aos-duration="800">Start Your Journey to <img src="/homeassets/assets/img/elements/quito3.png" alt=""> <br> a Fresh Beginning</h2>
+          <p class="text-white">When you join Certari, you become a Certarian and the possibilities become endless.</p>
+          <a href="https://cp-certari.zanibal.com/" class="welcome6-btn">Become a Client<i class="fa-light fa-arrow-right"></i></a>
         </div>
       </div>
-      <div class="col-lg-1"></div>
+      <!-- <div class="col-lg-1"></div>
       <div class="col-lg-6">
        <div class="cta-contact-area">
         <div class="row">
@@ -204,7 +206,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
+         <div class="col-lg-6 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
             <div class="cta5-author-area">
               <div class="cta5-icons">
                 <img src="/homeassets/assets/img/icons/email-img1.svg" alt="">
@@ -214,11 +216,11 @@
                 <a href="mailto:inquiries@certari.com">inquiries@certari.com</a>
               </div>
             </div>
-          </div>
+          </div> 
 
         </div>
        </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>

@@ -55,12 +55,12 @@
         <div class="row align-items-center">
             <div class="col-lg-5">
                 <div class="about-service-area">
-                    <div class="about-img1">
-                        <img src="/homeassets/assets/img/images/about-inner-img1.png" alt="">
+                    <div class="about-img1 aniamtion-key-1">
+                        <img src="/homeassets/img/manbrown.avif" alt="">
                     </div>
-                    <div class="about-img2 aniamtion-key-1">
+                    <!-- <div class="about-img2 aniamtion-key-1">
                         <img src="/homeassets/assets/img/images/about-inner-img2.png" alt="" >
-                    </div>
+                    </div> -->
                     <div class="eleemntors30 d-lg-inline-block d-none">
                         <img src="/homeassets/assets/img/elements/elementor30.png" alt="">
                     </div>
@@ -75,9 +75,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-service-content">
-                    <h2>Expert Criminal Best Defense Lawyers Protecting Future</h2>
-                    <p>Welcome to Law Firm Name, where your rights, freedom, and future matter most. Our team comprises seasoned criminal defense attorneys dedicated to providing unwavering protection and strategic advocacy for every client.</p>
-                    <p>Our commitment extends beyond the courtroom - we prioritize best lawyer communication, transparency, and personalized attention, ensuring you're informed & empowered every step of the way. Rest assured, with our Law.</p>
+                    <h2>The Certari Way</h2>
+                    <p>Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
+                    sustainable development and the welfare of our clients (Certarians).</p>
                     <div class="about3-textarea-list">
                         <ul>
                           <li><a href="#"><img src="/homeassets/assets/img/icons/check-img2.svg" alt="">Expertise & Knowledge</a></li>
@@ -89,7 +89,7 @@
                         </ul>
                       </div>
                       <div class="div">
-                        <a href="service1.html" class="casebtn1">Secure Your Defense <span><i class="fa-regular fa-arrow-right"></i></span></a>
+                        <a href="#team" class="casebtn1">Our Leadership <span><i class="fa-regular fa-arrow-right"></i></span></a>
                       </div>
                 </div>
             </div>
@@ -104,30 +104,8 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="services-all-images">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <div class="service-img1" data-aos="zoom-in" data-aos-duration="1000">
-                                <img src="/homeassets/assets/img/images/service6-img7.png" alt="">
-                                <img src="/homeassets/assets/img/elements/elementor34.png" alt="" class="elementor34 keyframe5">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <div class="second-service-img">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="images" data-aos="zoom-in" data-aos-duration="1200">
-                                            <img src="/homeassets/assets/img/images/service6-img8.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="space20"></div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="images" data-aos="zoom-in" data-aos-duration="1400">
-                                            <img src="/homeassets/assets/img/images/service6-img9.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="images" data-aos="zoom-in" data-aos-duration="1200">
+                        <img src="/homeassets/img/aboutuspeople.jpg" alt="">
                     </div>
                 </div>
             </div>
