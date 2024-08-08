@@ -77,6 +77,9 @@
                                         <li>
                                             <a href="/greenrealty">GREEN REALTY</a>
                                         </li>
+                                        <li>
+                                            <a href="/contact">CONTACT US</a>
+                                        </li>
                                     </ul>
                                 </div>
 

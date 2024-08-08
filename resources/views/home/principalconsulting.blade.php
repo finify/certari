@@ -23,21 +23,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <div class="about-imageas-area text-center" data-aos="zoom-out" data-aos-duration="800" >
-            <div class="about-img1">
-                <img src="/homeassets/assets/img/images/about-img1.png" alt="">
-              </div>
-              <!-- <div class="elementors-7">
-                <img src="/homeassets/assets/img/elements/elementor8.png" alt="" class="keyframe4">
-              </div>
-              <div class="elementors-8">
-                <img src="/homeassets/assets/img/elements/elementor9.png" alt="" class="keyframe3">
-              </div>
-              <div class="elementors10">
-                <img src="/homeassets/assets/img/elements/elementors10.png" alt="" class="aniamtion-key-1">
-              </div> -->
-
-            </div>
+            <img src="/homeassets/assets/img/images/about-img1.png" alt="">
         </div>
 
         <div class="col-lg-6">
@@ -47,9 +33,7 @@
             (Certarians) succeed in their industry.</h3>
             <p data-aos="fade-left" data-aos-duration="900">Our specialization covers a variety of sectors such as project management, finance, insurance, and sustainable real estate ecosystems.</p>
            
-            <div class="tax-services-btn" data-aos="fade-left" data-aos-duration="800" data-aos-easing="linear">
-              <a href="about.html" class="tax-services">What We Offer</a>
-            </div>
+            <a href="#" class="welcome6-btn">What We Offer</a>
           </div>
         </div>
       </div>

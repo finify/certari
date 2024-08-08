@@ -96,7 +96,7 @@
       <div class="col-lg-4  col-md-6" data-aos="fade-up" data-aos-duration="1200">
         <div class="work3-boxarea text-center">
           <div class="laws-icon1">
-            <img src="/homeassets/assets/img/icons/law-img3.svg" alt="">
+            <img src="/homeassets/assets/img/icons/service-inner5.svg" alt="">
           </div>
           <div class="circle-img">
             <img src="/homeassets/assets/img/elements/circle1.png" alt="">
@@ -183,11 +183,11 @@
 <div class="cta5-section-area sp4" style="background-image: url(/homeassets/assets/img/images/cta-bg1.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-12">
+      <div class="col-lg-8">
         <div class="cta5-header-area">
           <h2 data-aos="fade-up" data-aos-duration="800">Start Your Journey to <img src="/homeassets/assets/img/elements/quito3.png" alt=""> <br> a Fresh Beginning</h2>
           <p class="text-white">When you join Certari, you become a Certarian and the possibilities become endless.</p>
-          <a href="https://cp-certari.zanibal.com/" class="welcome6-btn">Become a Client<i class="fa-light fa-arrow-right"></i></a>
+         
         </div>
       </div>
       <!-- <div class="col-lg-1"></div>
@@ -221,6 +221,13 @@
         </div>
        </div>
       </div> -->
+      <div class="col-lg-3">
+        <div class="div" data-aos="fade-up" data-aos-duration="1200">
+            
+             <a href="https://cp-certari.zanibal.com/" class="welcome6-btn">Become a Client <span><i class="fa-regular fa-arrow-right"></i></span></a>
+            
+          </div>
+      </div>
     </div>
   </div>
 </div>

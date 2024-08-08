@@ -3,12 +3,13 @@
 @section('content')
 <!--===== WELCOME STARTS =======-->
 <div class="slider-carousel-area owl-carousel">
+    
     <div class="welcome6-section-area">
         <img src="/homeassets/img/bg1.webp" alt="" class="homepage6-bg">
         <div class="lawer-images">
             <!-- <img src="/homeassets/assets/img/icons/law-img7.png" alt="" class="law"> -->
             <!-- <img src="/homeassets/assets/img/bacground/Polygon1.png" alt="" class="Polygon1"> -->
-            <img src="/homeassets/assets/img/bacground/Polygon11.png" alt="" style="height:100%!important" class="Polygon2">
+           <div class="glass"></div>
         </div>
         <div class="container">
             <div class="row">
@@ -44,7 +45,7 @@
         <div class="lawer-images">
              <!-- <img src="/homeassets/assets/img/icons/law-img7.png" alt="" class="law"> -->
             <!-- <img src="/homeassets/assets/img/bacground/Polygon1.png" alt="" class="Polygon1"> -->
-            <img src="/homeassets/assets/img/bacground/Polygon11.png" alt="" style="height:100%!important" class="Polygon2">
+           <div class="glass"></div>
         </div>
         <div class="container">
             <div class="row">
@@ -150,8 +151,7 @@
                 <div class="about7-header-area">
                     <span data-aos="fade-left" data-aos-duration="600">About Us</span>
                     <h2 data-aos="fade-left" data-aos-duration="800">
-                        Simple, Sound Financial 
-                        <span class="defence">Advice</span>
+                        Simple, Sound Financial Advice
                     </h2>
                     <p data-aos="fade-left" data-aos-duration="900">
                         Founded in XXX, Certari Asset Management (Certari) is a leading asset manager offering a wide range of asset management services. We are a fast paced, results-driven and innovative organization, setting unique standards of excellence  in the Nigerian Investment market and beyond.
@@ -195,9 +195,9 @@
             <div class="col-lg-4 m-auto">
                 <div class="service7-header-area text-center">
                     <span data-aos="fade-up" data-aos-duration="800">Analysis</span>
-                    <h4 data-aos="fade-up" data-aos-duration="1000">
+                    <h2 data-aos="fade-up" data-aos-duration="1000">
                         Expert Perspectives
-                    </h4>
+                    </h2>
                 </div>
             </div>
         </div>
@@ -405,8 +405,7 @@
                 <div class="testimonial7-haeder text-center">
                     <span data-aos="fade-up" data-aos-duration="800">Our Testimonials</span>
                     <h2 data-aos="fade-up" data-aos-duration="1000">
-                        What Our 
-                        <span class="defence">Clients</span> Are Saying
+                        What Our Clients Are Saying
                     </h2>
                 </div>
             </div>

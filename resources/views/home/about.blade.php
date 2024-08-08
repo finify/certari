@@ -20,7 +20,7 @@
   <!--===== WELCOME ENDS=======-->
 
   <!--===== ABOUT STARTS=======-->
-  <div class="about3-section-area about-inner">
+  <div class="about3-section-area about-inner" id="about">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
@@ -30,7 +30,11 @@
             <p>In today's digital age, with fast-moving innovations and technology shaping the world into a global village, you need a partner to navigate the uncertainties of different terrains. With more opportunities sprouting around the world, the investment landscape gets more interesting - and complex too. Rapid climate changes, new technology, and economic realities are shaping the way our world works and how we can solve the world's challenges with purpose and value.</p>
             <h2>Our Mission</h2>
             <div class="about3-pera-text">
-              <p>Helping clients to grow from success to significance.</p>
+              <p class="mt-1">To be the most preferred private bank in Africa.</p>
+            </div>
+            <h2>Our Vision</h2>
+            <div class="about3-pera-text">
+              <p class="mt-1">Helping clients grow from success to significance.</p>
             </div>
             
           </div>
@@ -89,7 +93,7 @@
                         </ul>
                       </div>
                       <div class="div">
-                        <a href="#team" class="casebtn1">Our Leadership <span><i class="fa-regular fa-arrow-right"></i></span></a>
+                        <a href="#team" class="welcome6-btn">Our Leadership <span><i class="fa-regular fa-arrow-right"></i></span></a>
                       </div>
                 </div>
             </div>
@@ -133,11 +137,15 @@
           <h2 data-aos="fade-up" data-aos-duration="800">Certari Way</h2>
           <P data-aos="fade-up" data-aos-duration="1000">Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
           sustainable development and the welfare of our clients (Certarians). – schedule.</P>
-          <div class="div" data-aos="fade-up" data-aos-duration="1200">
-            <a href="/contact" class="welcome6-btn">Contact Us<i class="fa-light fa-arrow-right"></i></a>
-            <!-- <a href="contact2.html" class="welcome7-btn">Contact Us <i class="fa-light fa-arrow-right"></i></a> -->
-          </div>
+          
         </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="div" data-aos="fade-up" data-aos-duration="1200">
+            
+             <a href="/contact" class="welcome6-btn">Contact Us <span><i class="fa-regular fa-arrow-right"></i></span></a>
+            
+          </div>
       </div>
     </div>
   </div>
@@ -145,7 +153,7 @@
 <!--===== CTA ENDS =======-->
 
 <!--===== TEAM STARTS =======-->
-<div class="team7-section-area sp3">
+<div class="team7-section-area sp3" id="team">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 m-auto">
@@ -153,7 +161,7 @@
                     <span data-aos="fade-up" data-aos-duration="800">Our Experienced Team</span>
                     <h2 data-aos="fade-up" data-aos-duration="1000">
                         
-                        <span class="defence">Leadership</span>
+                        <span class="defence text-dark">Leadership</span>
                     </h2>
                 </div>
             </div>
@@ -163,7 +171,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/ephraim.webp" alt="" />
+                            <img src="/homeassets/img/team/ephraim.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -197,7 +205,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/nosike.webp" alt="" />
+                            <img src="/homeassets/img/team/nosike.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -231,7 +239,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/ego.webp" alt="" />
+                            <img src="/homeassets/img/team/ego.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -265,7 +273,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/omozusi.webp" alt="" />
+                            <img src="/homeassets/img/team/omozusi.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -298,7 +306,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/ivie.webp" alt="" />
+                            <img src="/homeassets/img/team/ivie.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -331,7 +339,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/nicholas.webp" alt="" />
+                            <img src="/homeassets/img/team/nicholas.png" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />

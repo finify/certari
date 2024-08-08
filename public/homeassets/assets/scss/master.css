@@ -31,6 +31,12 @@ Location:
 /* ============= FOOTER CSS AREA =============== */
 /* ============= TYPHOGRAPHY CSS AREA =============== */
 @import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;600;700;800;900&amp;family=Outfit:wght@400;500;600;700;800;900&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800&amp;family=Urbanist:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700&amp;family=Vidaloka&amp;display=swap");
+
+@font-face {
+  font-family:'Univers LT';
+  font-display: swap;
+  src: url('file:///C:/Users/USER/AppData/Local/Mobirise.com/Mobirise/projects/project-2023-06-16_020418/fonts/Univers%20LT%20Std%2059%20Ultra%20Condensed/font.ttf');
+}
 * {
   margin: 0;
   padding: 0;
@@ -57,7 +63,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -627,7 +633,7 @@ img {
 
 .progress-wrap::after {
   position: absolute;
-  font-family: "FontAwesome";
+  font-family: Arial, sans-serif;
   content: "\f062";
   text-align: center;
   line-height: 56px;
@@ -649,7 +655,7 @@ img {
 
 .progress-wrap::before {
   position: absolute;
-  font-family: "FontAwesome";
+  font-family: Arial, sans-serif;
   content: "\f062";
   text-align: center;
   line-height: 56px;
@@ -690,7 +696,7 @@ img {
 /* ============= BUTTON CSS AREA =============== */
 .tax-services {
   display: inline-block;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 600;
@@ -728,7 +734,7 @@ img {
 
 .tax-services1 {
   display: inline-block;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: #AA5615;
@@ -761,7 +767,7 @@ img {
 }
 
 a.welconme-btn2 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 600;
   color: #ffffff;
@@ -814,7 +820,7 @@ a.welconme-btn2:hover::after {
 }
 
 button.cta-btn2 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 600;
   padding: 10px 16px;
@@ -865,7 +871,7 @@ button.cta-btn2:hover::after {
 }
 
 .casebtn1 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #ffffff;
@@ -905,7 +911,7 @@ button.cta-btn2:hover::after {
 }
 
 .casebtn2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #070812;
@@ -957,7 +963,7 @@ button.contactbtn1 {
   outline: none;
   padding: 14px 24px;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
   font-size: 16px;
   margin-top: 32px;
@@ -1000,7 +1006,7 @@ a.cta3-btn1 {
   outline: none;
   padding: 14px 24px;
   color: #AA5615;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
   font-size: 16px;
   margin-top: 32px;
@@ -1044,7 +1050,7 @@ a.cta3-btn2 {
   outline: none;
   padding: 14px 24px;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
   font-size: 16px;
   margin-top: 32px;
@@ -1085,7 +1091,7 @@ a.cta3-btn2:hover {
 
 .welcome-btn4 {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #ffffff;
   font-weight: 700;
   background: #aa5515;
@@ -1107,7 +1113,7 @@ a.cta3-btn2:hover {
 
 .welcome-btn5 {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #aa5515;
   font-weight: 700;
   display: inline-block;
@@ -1127,7 +1133,7 @@ a.cta3-btn2:hover {
 }
 
 .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: var(--Second-Color, #052A23);
   background: var(--Main-Color, #E5B472);
@@ -1172,7 +1178,7 @@ a.cta3-btn2:hover {
 
 a.welcome6-btn {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1229,7 +1235,7 @@ a.welcome6-btn:hover::before {
 
 a.welcome7-btn {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1286,7 +1292,7 @@ a.welcome7-btn:hover::before {
 
 a.about7-btn {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1350,7 +1356,7 @@ a.about7-btn:hover::before {
 }
 .header-area .main-menu-ex.homepage3 ul li a {
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif !important;
+  font-family: Arial, sans-serif;
   font-weight: 400 !important;
 }
 .header-area .main-menu-ex.homepage3 ul li a:hover {
@@ -1401,7 +1407,7 @@ a.about7-btn:hover::before {
 }
 .header-area .main-menu-ex.homepage4 ul li a {
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #091515;
   font-weight: 400;
 }
@@ -1543,7 +1549,7 @@ a.about7-btn:hover::before {
   display: block;
 }
 .header-elements ul li a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #0B1B23;
@@ -1723,7 +1729,7 @@ ul.mega-dropdown-ul {
   outline: none;
   border: none;
   background: none;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 
@@ -1859,7 +1865,7 @@ ul.mega-dropdown-ul {
 }
 
 .sidebar-content p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin-top: 24px;
@@ -1870,17 +1876,17 @@ ul.mega-dropdown-ul {
 ul.sidebar-menu li {
   display: block;
   margin-bottom: 0;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   padding: 10px 0;
 }
 ul.sidebar-menu li a {
   font-size: 25px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   color: #AA5615;
 }
 
 .theme-btnarea a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 18px;
   font-weight: 600;
@@ -1952,7 +1958,7 @@ ul.social-links li a:hover {
 }
 
 .sidebar-info h1.sidebar-heading {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   line-height: 40px;
   font-weight: 600;
@@ -1962,7 +1968,7 @@ ul.social-links li a:hover {
 }
 
 .sidebar-info.sidebar-info2 h1.sidebar-heading {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   line-height: 40px;
   font-weight: 600;
@@ -1972,7 +1978,7 @@ ul.social-links li a:hover {
 }
 
 .sidebar-info.sidebar-info3 h1.sidebar-heading {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   line-height: 40px;
   font-weight: 600;
@@ -1982,7 +1988,7 @@ ul.social-links li a:hover {
 }
 
 .sidebar-info.sidebar-info4 h1.sidebar-heading {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   line-height: 40px;
   font-weight: 600;
@@ -1992,7 +1998,7 @@ ul.social-links li a:hover {
 }
 
 .sidebar-contact-header h1 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   color: #0B1B23;
   margin-bottom: 20px;
@@ -2007,7 +2013,7 @@ ul.social-links li a:hover {
   margin-bottom: 20px;
 }
 .sidebar-contact-header .sidebar-author-area a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   color: #0B1B23;
   font-weight: 600;
@@ -2071,7 +2077,7 @@ ul.social-links li a:hover {
 }
 .header-area .main-menu-ex.homepage5 ul li a {
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #ffffff;
   font-weight: 400;
 }
@@ -2152,7 +2158,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage6 .header-top-area .header-top-border .top-content-area p {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2160,7 +2166,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage6 .header-top-area .header-top-border .top-content-area p a {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 16px;
@@ -2180,7 +2186,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage6 .header-top-area .header-top-border .social-area ul li a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2202,7 +2208,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage6 .main-menu-ex.homepage6 ul li a {
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #0A141C;
   font-weight: 400;
 }
@@ -2275,7 +2281,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage7 .header-top-area .header-top-border .top-content-area p {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2283,7 +2289,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage7 .header-top-area .header-top-border .top-content-area p a {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 16px;
@@ -2303,7 +2309,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage7 .header-top-area .header-top-border .social-area ul li a {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2326,7 +2332,7 @@ ul.social-links li a:hover {
 }
 .header .header-area.homepage7 .main-menu-ex.homepage6 ul li a {
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #0A141C;
   font-weight: 400;
 }
@@ -2631,13 +2637,13 @@ ul.social-links li a:hover {
   display: inline-block;
   padding: 10px;
   margin-bottom: 24px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
 }
 .welcome-main-area h1 {
   font-size: 56px;
   line-height: 66px;
   font-weight: 400;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   color: #0B1B23;
   position: relative;
   margin-bottom: 20px;
@@ -2668,7 +2674,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome-main-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -2759,7 +2765,7 @@ ul.social-links li a:hover {
 }
 .welcome2-section-area .welcome-header2-text span {
   background: rgba(87, 58, 169, 0.1);
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -2770,7 +2776,7 @@ ul.social-links li a:hover {
   color: #573AA9;
 }
 .welcome2-section-area .welcome-header2-text h1 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   line-height: 64px;
   font-weight: 400;
@@ -2785,7 +2791,7 @@ ul.social-links li a:hover {
 }
 .welcome2-section-area .welcome-header2-text h1 span {
   background: none;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #573AA9;
   font-size: 56px;
@@ -2812,7 +2818,7 @@ ul.social-links li a:hover {
   top: -15px;
 }
 .welcome2-section-area .welcome-header2-text p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -3057,7 +3063,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome3-section-area .welcome3-header-area h1 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 60px;
   line-height: 75px;
   font-weight: 500;
@@ -3083,7 +3089,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome3-section-area .welcome3-header-area h1 a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   background: #FEC89A;
   height: 60px;
@@ -3130,7 +3136,7 @@ ul.social-links li a:hover {
   transition: all 0.55s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .welcome3-section-area .welcome3-header-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   line-height: 26px;
   font-weight: 400;
@@ -3150,12 +3156,12 @@ ul.social-links li a:hover {
   }
 }
 .welcome3-section-area .welcome3-counter-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 32px;
   margin-bottom: 16px;
 }
 .welcome3-section-area .welcome3-counter-area h3 span {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 32px;
   line-height: 32px;
   font-weight: 500;
@@ -3163,7 +3169,7 @@ ul.social-links li a:hover {
   margin-bottom: 16px;
 }
 .welcome3-section-area .welcome3-counter-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #3C3E4E;
@@ -3182,7 +3188,7 @@ ul.social-links li a:hover {
   position: relative;
 }
 .welcome4-section-area .welcome4-header h1 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 80px;
   line-height: 90px;
   font-weight: 500;
@@ -3207,7 +3213,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome4-section-area .welcome4-header p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   line-height: 26px;
   font-weight: 400;
@@ -3262,7 +3268,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome5-scetion-area .welcome5-textarea span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   padding: 8px 10px;
@@ -3274,7 +3280,7 @@ ul.social-links li a:hover {
   font-weight: 400;
 }
 .welcome5-scetion-area .welcome5-textarea h1 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   line-height: 66px;
   font-weight: 600;
@@ -3304,7 +3310,7 @@ ul.social-links li a:hover {
   }
 }
 .welcome5-scetion-area .welcome5-textarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -3411,12 +3417,12 @@ ul.social-links li a:hover {
   }
 }
 .welcome5-scetion-area .welcome5-images-area .content5-counter-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   color: var(--Second-Color, #052A23);
 }
 .welcome5-scetion-area .welcome5-images-area .content5-counter-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #595E65;
   font-weight: 400;
@@ -3529,7 +3535,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area .welcome6-section-area .welcome6-header-area span {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -3544,7 +3550,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area .welcome6-section-area .welcome6-header-area h1 {
   color: #ffffff;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 400;
@@ -3559,7 +3565,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area .welcome6-section-area .welcome6-header-area p {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -3614,7 +3620,7 @@ ul.social-links li a:hover {
 .slider-carousel-area .welcome6-section-area .welcome6-elements-area .polygon-author .polygon-arrow a {
   color: #0A141C;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -3704,7 +3710,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area.car .welcome7-section-area .welcome6-header-area span {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -3719,7 +3725,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area.car .welcome7-section-area .welcome6-header-area h1 {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 600;
@@ -3727,7 +3733,7 @@ ul.social-links li a:hover {
   margin-bottom: 16px;
 }
 .slider-carousel-area.car .welcome7-section-area .welcome6-header-area h1 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 600;
@@ -3746,7 +3752,7 @@ ul.social-links li a:hover {
 }
 .slider-carousel-area.car .welcome7-section-area .welcome6-header-area p {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -3803,7 +3809,7 @@ ul.social-links li a:hover {
 .slider-carousel-area.car .welcome7-section-area .welcome6-elements-area .polygon-author .polygon-arrow a {
   color: #0A141C;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -3968,7 +3974,7 @@ ul.social-links li a:hover {
   }
 }
 .about-textarea-section span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   border-radius: 2px;
   background: rgba(43, 73, 90, 0.1);
@@ -3980,7 +3986,7 @@ ul.social-links li a:hover {
   margin-bottom: 24px;
 }
 .about-textarea-section h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #0B1B23;
   font-size: 40px;
@@ -4004,7 +4010,7 @@ ul.social-links li a:hover {
   }
 }
 .about-textarea-section p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -4023,7 +4029,7 @@ ul.social-links li a:hover {
 .about-textarea-section .counter-area span {
   background: none;
   font-size: 36px;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   line-height: 46px;
   font-weight: 400;
   padding: 0;
@@ -4033,7 +4039,7 @@ ul.social-links li a:hover {
   margin-bottom: 8px;
 }
 .about-textarea-section .counter-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #3A3A3F;
@@ -4083,7 +4089,7 @@ ul.social-links li a:hover {
   margin-bottom: 20px;
 }
 .about-section-area .about-side-boxarea h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 32px;
   color: #140D28;
@@ -4091,7 +4097,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .about-section-area .about-side-boxarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #3A3A3F;
@@ -4146,7 +4152,7 @@ ul.social-links li a:hover {
   }
 }
 .about-section-area .about2-textarea span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -4158,7 +4164,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
 }
 .about-section-area .about2-textarea h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 50px;
@@ -4187,7 +4193,7 @@ ul.social-links li a:hover {
   }
 }
 .about-section-area .about2-textarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -4205,7 +4211,7 @@ ul.social-links li a:hover {
   }
 }
 .about-section-area .about2-textarea .about-list li {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   color: #140D28;
   font-weight: 500;
@@ -4245,7 +4251,7 @@ ul.social-links li a:hover {
   }
 }
 .about3-section-area .about3-textarea span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #AA5615;
@@ -4257,7 +4263,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .about3-section-area .about3-textarea h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 500;
@@ -4271,7 +4277,7 @@ ul.social-links li a:hover {
   }
 }
 .about3-section-area .about3-textarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #3C3E4E;
@@ -4297,7 +4303,7 @@ ul.social-links li a:hover {
   margin: 0 6px 0 0;
 }
 .about3-section-area .about3-textarea .about3-textarea-list ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #070812;
@@ -4308,7 +4314,7 @@ ul.social-links li a:hover {
   margin-bottom: 0;
 }
 .about3-section-area .about3-textarea .about3-pera-text p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #070812;
   font-size: 16px;
@@ -4420,7 +4426,7 @@ ul.social-links li a:hover {
   top: 0;
 }
 .about4-scetion-area .about4-all-boxarea .about4-single-boxarea a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 500;
   color: #091515;
@@ -4428,7 +4434,7 @@ ul.social-links li a:hover {
   margin-bottom: 12px;
 }
 .about4-scetion-area .about4-all-boxarea .about4-single-boxarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -4452,7 +4458,7 @@ ul.social-links li a:hover {
   }
 }
 .about4-scetion-area .about4-textarea span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #aa5515;
@@ -4464,7 +4470,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .about4-scetion-area .about4-textarea h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   color: #091515;
@@ -4478,7 +4484,7 @@ ul.social-links li a:hover {
   }
 }
 .about4-scetion-area .about4-textarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -4527,14 +4533,14 @@ ul.social-links li a:hover {
   }
 }
 .about5-sction-area .about5-images-area .about5-img1.about5-textarea h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 48px;
   color: #ffffff;
   font-weight: 700;
   margin-bottom: 12px;
 }
 .about5-sction-area .about5-images-area .about5-img1.about5-textarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: rgba(255, 255, 255, 0.9);
@@ -4559,7 +4565,7 @@ ul.social-links li a:hover {
   }
 }
 .about5-sction-area .about5-content-area span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: var(--Second-Color, #052A23);
@@ -4571,7 +4577,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .about5-sction-area .about5-content-area h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   font-weight: 600;
@@ -4590,7 +4596,7 @@ ul.social-links li a:hover {
   top: -15px;
 }
 .about5-sction-area .about5-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #595E65;
@@ -4598,7 +4604,7 @@ ul.social-links li a:hover {
   margin-bottom: 24px;
 }
 .about5-sction-area .about5-content-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: #08111C;
   font-weight: 600;
@@ -4624,7 +4630,7 @@ ul.social-links li a:hover {
 }
 .about5-sction-area .about5-content-area .about5-lists ul li a {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 600;
   color: #08111C;
 }
@@ -4652,7 +4658,7 @@ ul.social-links li a:hover {
 .inner-pages .welcome-inner-section-area .welcome-inner-header h1 {
   color: var(--Text-Color, #070812);
   text-align: center;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 60px;
   font-style: normal;
   font-weight: 500;
@@ -4661,7 +4667,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .welcome-inner-section-area .welcome-inner-header a {
   color: var(--Text-Color, #070812);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -4770,7 +4776,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-servce-section-area .about-service-area .experiance-area h4 {
   color: #ffffff;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -4779,7 +4785,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-servce-section-area .about-service-area .experiance-area p {
   color: rgba(255, 255, 255, 0.9);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -4802,7 +4808,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-servce-section-area .about-service-content h2 {
   color: var(--Text-Color, #070812);
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -4818,7 +4824,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-servce-section-area .about-service-content p {
   color: var(--Paragraph-Color, #3C3E4E);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -4845,7 +4851,7 @@ ul.social-links li a:hover {
   margin: 0 6px 0 0;
 }
 .inner-pages .about-servce-section-area .about-service-content .about3-textarea-list ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #070812;
@@ -4865,7 +4871,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-history-sction-area .history-header span {
   color: #AA5615;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -4880,7 +4886,7 @@ ul.social-links li a:hover {
 .inner-pages .about-history-sction-area .history-header h2 {
   color: var(--Text-Color, #070812);
   text-align: center;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -4908,7 +4914,7 @@ ul.social-links li a:hover {
 .inner-pages .about-history-sction-area .about-history-tabs nav a {
   color: #070812;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -4979,7 +4985,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-history-sction-area .about-history-tabs .Tabcondent .tabs-history-content h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 32px;
   font-style: normal;
   font-weight: 500;
@@ -4988,7 +4994,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-history-sction-area .about-history-tabs .Tabcondent .tabs-history-content p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -4997,7 +5003,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .about-history-sction-area .about-history-tabs .Tabcondent .tabs-history-content span {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -5061,7 +5067,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .team2-section-area .team1-header span {
   color: #AA5615;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5071,7 +5077,7 @@ ul.social-links li a:hover {
 .inner-pages .team2-section-area .team1-header h2 {
   color: #070812;
   text-align: center;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -5107,7 +5113,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .team2-section-area .team2-parent-boxarea .team2-textarea .teamsname a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -5115,7 +5121,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .team2-section-area .team2-parent-boxarea .team2-textarea .teamsname p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -5152,7 +5158,7 @@ ul.social-links li a:hover {
 }
 .about6-section-area .about6-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5165,7 +5171,7 @@ ul.social-links li a:hover {
 }
 .about6-section-area .about6-header h2 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -5179,7 +5185,7 @@ ul.social-links li a:hover {
 }
 .about6-section-area .about6-header p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5202,7 +5208,7 @@ ul.social-links li a:hover {
 }
 .about6-section-area .about6-header .about6-tabs ul.nav li button {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5235,7 +5241,7 @@ ul.social-links li a:hover {
 }
 .about6-section-area .about6-header .about6-tabs .tab-content .tabs-author-area2 ul li a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -5318,14 +5324,14 @@ ul.social-links li a:hover {
   }
 }
 .about7-section-area .about5-images-area .about5-img1.about5-textarea h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 48px;
   color: #ffffff;
   font-weight: 700;
   margin-bottom: 12px;
 }
 .about7-section-area .about5-images-area .about5-img1.about5-textarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: rgba(255, 255, 255, 0.9);
@@ -5351,7 +5357,7 @@ ul.social-links li a:hover {
 }
 .about7-section-area .about7-header-area span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -5364,7 +5370,7 @@ ul.social-links li a:hover {
 }
 .about7-section-area .about7-header-area h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -5372,7 +5378,7 @@ ul.social-links li a:hover {
   line-height: 54px;
 }
 .about7-section-area .about7-header-area h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -5397,7 +5403,7 @@ ul.social-links li a:hover {
 }
 .about7-section-area .about7-header-area h3 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -5407,7 +5413,7 @@ ul.social-links li a:hover {
 }
 .about7-section-area .about7-header-area p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5430,7 +5436,7 @@ ul.social-links li a:hover {
 }
 .about7-section-area .about7-header-area .list-about ul li a {
   color: var(--Text-Color, #0A141C);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5481,7 +5487,7 @@ ul.social-links li a:hover {
 }
 .services1-scetion-area .services1-header span {
   font-size: 16px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   color: #3A3A3F;
   background: rgba(43, 73, 90, 0.1);
   font-weight: 500;
@@ -5492,7 +5498,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .services1-scetion-area .services1-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   color: #0B1B23;
   font-weight: 400;
@@ -5565,7 +5571,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .services1-scetion-area .service2-boxarea a.single-link {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
   color: #0B1B23;
@@ -5574,7 +5580,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .services1-scetion-area .service2-boxarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -5583,7 +5589,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .services1-scetion-area .service2-boxarea a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: #0B1B23;
@@ -5658,7 +5664,7 @@ ul.social-links li a:hover {
   }
 }
 .service2-section-area .service2-header-text span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -5670,7 +5676,7 @@ ul.social-links li a:hover {
   color: #573AA9;
 }
 .service2-section-area .service2-header-text h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   position: relative;
@@ -5689,7 +5695,7 @@ ul.social-links li a:hover {
   top: -15px;
 }
 .service2-section-area .service2-header-text p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #3A3A3F;
@@ -5714,7 +5720,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .service2-section-area .service2-author-box .tax-content a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 400;
   color: #140D28;
@@ -5725,7 +5731,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .service2-section-area .service2-author-box .tax-content p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -5733,7 +5739,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .service2-section-area .service2-author-box a.learn-more {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #140D28;
@@ -5834,7 +5840,7 @@ ul.social-links li a:hover {
   display: inline-block;
   background: #ffffff;
   padding: 8px 10px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 400;
   color: #AA5615;
@@ -5843,7 +5849,7 @@ ul.social-links li a:hover {
   font-size: 16px;
 }
 .service3-section-area .service3-header-text h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 40px;
   line-height: 50px;
@@ -5878,7 +5884,7 @@ ul.social-links li a:hover {
 }
 .service3-section-area .testimonial-listarea h3 {
   font-size: 24px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 600;
   display: flex;
   align-items: center;
@@ -5891,14 +5897,14 @@ ul.social-links li a:hover {
   margin: 0 4px;
 }
 .service3-section-area .testimonial-listarea h4 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 32px;
   color: #070812;
   margin-bottom: 24px;
   font-weight: 500;
 }
 .service3-section-area .testimonial-listarea .service-pera1 p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -5906,7 +5912,7 @@ ul.social-links li a:hover {
   color: #3C3E4E;
 }
 .service3-section-area .testimonial-listarea .service-pera1 p span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
 }
@@ -5975,7 +5981,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .service4-section-area .service4-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #aa5515;
@@ -5987,7 +5993,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .service4-section-area .service4-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   font-weight: 500;
@@ -6053,7 +6059,7 @@ ul.social-links li a:hover {
   margin: 0 16px 0 0;
 }
 .service4-section-area .service4-boxarea .service4-content-area .service4-author-area a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 24px;
   font-weight: 500;
@@ -6068,7 +6074,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .service4-section-area .service4-boxarea .service4-content-area .service4-content2-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -6076,7 +6082,7 @@ ul.social-links li a:hover {
   margin-top: 16px;
 }
 .service4-section-area .service4-boxarea .service4-content-area .service4-content2-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #aa5515;
@@ -6139,7 +6145,7 @@ ul.social-links li a:hover {
 .service5-section-area .service5-header span {
   background: rgba(5, 42, 35, 0.05);
   display: inline-block;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   padding: 8px 10px;
   border-radius: 4px;
@@ -6149,7 +6155,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .service5-section-area .service5-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   font-weight: 600;
@@ -6217,7 +6223,7 @@ ul.social-links li a:hover {
   z-index: -1;
 }
 .service5-section-area .service5-boxarea .service5-content-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   display: block;
   color: #ffffff;
@@ -6245,13 +6251,13 @@ ul.social-links li a:hover {
 }
 .service5-section-area .service5-boxarea .service-content p {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 26px;
   color: rgba(255, 255, 255, 0.9);
   font-weight: 400;
 }
 .service5-section-area .service5-boxarea .service-content a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   display: block;
   color: #ffffff;
@@ -6260,7 +6266,7 @@ ul.social-links li a:hover {
   margin-bottom: 16px;
 }
 .service5-section-area .service5-boxarea .service-content a.learnmore {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   display: block;
   color: #ffffff;
@@ -6352,7 +6358,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-inner-section-area .service2-author-box .tax-content a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   display: inline-block;
@@ -6365,7 +6371,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-inner-section-area .service2-author-box .tax-content p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6374,7 +6380,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-inner-section-area .service2-author-box a.learn-more {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -6540,7 +6546,7 @@ ul.social-links li a:hover {
      object-fit: cover;
 }
 .inner-pages .service4-boxarea .service4-content-area .service4-author-area a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 24px;
   font-weight: 500;
@@ -6556,7 +6562,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .inner-pages .service4-boxarea .service4-content-area .service4-content2-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -6565,7 +6571,7 @@ ul.social-links li a:hover {
   margin-top: 16px;
 }
 .inner-pages .service4-boxarea .service4-content-area .service4-content2-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #aa5515;
@@ -6605,7 +6611,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .search-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -6621,7 +6627,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .search-area form input::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6630,7 +6636,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .search-area form input::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6658,7 +6664,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .servicve-categories h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -6683,7 +6689,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
   transition: all 0.4s ease-in-out;
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -6712,7 +6718,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .download-brochure h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -6721,7 +6727,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .download-brochure p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6746,7 +6752,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
   background: var(--Gray-Color, #F4F3EF);
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -6779,7 +6785,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .phone-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -6787,7 +6793,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .phone-area a {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -6817,7 +6823,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .contact-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -6833,12 +6839,12 @@ ul.social-links li a:hover {
   margin-top: 16px;
   padding: 18px 16px;
   height: 52px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
 }
 .inner-pages .service-left-inner-area .service-side-bararea .contact-area .contact-form-area input::-moz-placeholder {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6846,7 +6852,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .contact-area .contact-form-area input::placeholder {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6860,12 +6866,12 @@ ul.social-links li a:hover {
   margin-top: 16px;
   padding: 18px 16px;
   height: 120px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
 }
 .inner-pages .service-left-inner-area .service-side-bararea .contact-area .contact-form-area textarea::-moz-placeholder {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6873,7 +6879,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-side-bararea .contact-area .contact-form-area textarea::placeholder {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6884,7 +6890,7 @@ ul.social-links li a:hover {
   background: #AA5615;
   transition: all 0.4s ease-in-out;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -6926,7 +6932,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -6935,7 +6941,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6949,7 +6955,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text2 h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -6958,7 +6964,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text2 p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -6968,7 +6974,7 @@ ul.social-links li a:hover {
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text2 h4 {
   color: #070812;
   margin-top: 24px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -6992,7 +6998,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text2 .list ul li a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -7007,7 +7013,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text3 h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -7016,7 +7022,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-inner-area .service-rightbar-area .service-left-text3 p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7048,7 +7054,7 @@ ul.social-links li a:hover {
 .inner-pages .service-left-sideinner .service-left-header h2 {
   color: #070812;
   text-align: center;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -7087,7 +7093,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-sideinner .service2-author-box .tax-content a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   display: inline-block;
@@ -7100,7 +7106,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-sideinner .service2-author-box .tax-content p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7109,7 +7115,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .service-left-sideinner .service2-author-box a.learn-more {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -7215,7 +7221,7 @@ ul.social-links li a:hover {
 }
 .service6-section-area .service6-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7228,7 +7234,7 @@ ul.social-links li a:hover {
 }
 .service6-section-area .service6-header h2 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -7322,7 +7328,7 @@ ul.social-links li a:hover {
 }
 .service6-section-area .service6-boxarea .service-content a {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -7337,7 +7343,7 @@ ul.social-links li a:hover {
 }
 .service6-section-area .service6-boxarea .service-content .readmore a {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -7412,7 +7418,7 @@ ul.social-links li a:hover {
 }
 .service-2-section-area .service-2-header-area span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7425,7 +7431,7 @@ ul.social-links li a:hover {
 }
 .service-2-section-area .service-2-header-area h2 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -7439,7 +7445,7 @@ ul.social-links li a:hover {
 }
 .service-2-section-area .service-2-header-area p.pera-header {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -7481,7 +7487,7 @@ ul.social-links li a:hover {
 }
 .service-2-section-area .service-2-header-area .list-area li a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -7492,7 +7498,7 @@ ul.social-links li a:hover {
 }
 .service-2-section-area .service-2-header-area p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7526,7 +7532,7 @@ ul.social-links li a:hover {
   padding: 8px 12px;
   border-radius: 4px;
   background: rgba(255, 87, 34, 0.1);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -7536,14 +7542,14 @@ ul.social-links li a:hover {
 .service7-section-area .service7-header-area h2 {
   color: #0A141C;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 54px;
 }
 .service7-section-area .service7-header-area h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -7689,7 +7695,7 @@ ul.social-links li a:hover {
 }
 .service7-section-area .service7-box-area .service7-boxarea .service7-author-area .service-7-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -7705,7 +7711,7 @@ ul.social-links li a:hover {
 }
 .service7-section-area .service7-box-area .service7-boxarea .service7-author-area .service-7-content .service7-content p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -7715,7 +7721,7 @@ ul.social-links li a:hover {
 }
 .service7-section-area .service7-box-area .service7-boxarea .service7-author-area .service-7-content .service7-content a {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -7749,7 +7755,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .work-sectigon-area .works-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -7761,7 +7767,7 @@ ul.social-links li a:hover {
   color: #AA5615;
 }
 .work-sectigon-area .works-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 50px;
@@ -7854,7 +7860,7 @@ ul.social-links li a:hover {
   background: #AA5615;
 }
 .work-sectigon-area .collapse-navtabs button span {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 400;
   display: inline-block;
@@ -7863,7 +7869,7 @@ ul.social-links li a:hover {
   text-align: start;
 }
 .work-sectigon-area .collapse-navtabs button span.button-pera {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #3A3A3F;
@@ -8083,7 +8089,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .work2-section-area .work2-header-text span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -8095,7 +8101,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
 }
 .work2-section-area .work2-header-text h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 400;
@@ -8179,7 +8185,7 @@ ul.social-links li a:hover {
   background: #AA5615;
 }
 .work2-section-area .collapse-navtabs button span {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 400;
   color: #140D28;
@@ -8188,7 +8194,7 @@ ul.social-links li a:hover {
   text-align: start;
 }
 .work2-section-area .collapse-navtabs button span.button-pera {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 26px;
   font-size: 16px;
   font-weight: 500;
@@ -8268,7 +8274,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .work3-section-area .work3-progress span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #AA5615;
@@ -8280,7 +8286,7 @@ ul.social-links li a:hover {
   background: rgba(255, 125, 0, 0.1);
 }
 .work3-section-area .work3-progress h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: #070812;
@@ -8353,7 +8359,7 @@ ul.social-links li a:hover {
   }
 }
 .work3-section-area .work3-boxarea h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #AA5615;
   background: #ffffff;
@@ -8414,7 +8420,7 @@ ul.social-links li a:hover {
 }
 .work3-section-area .work3-boxarea .work-progress-content a {
   font-size: 24px;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   line-height: 24px;
   color: #070812;
   display: inline-block;
@@ -8423,7 +8429,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .work3-section-area .work3-boxarea .work-progress-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #3C3E4E;
@@ -8445,7 +8451,7 @@ ul.social-links li a:hover {
 }
 .work4-section-area .work4-header span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #aa5515;
   display: inline-block;
@@ -8456,7 +8462,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .work4-section-area .work4-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   color: #091515;
@@ -8517,7 +8523,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .work4-section-area .work4-boxarea .work4-autor-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 60px;
   font-weight: 500;
   position: absolute;
@@ -8532,7 +8538,7 @@ ul.social-links li a:hover {
   margin-top: 85px;
 }
 .work4-section-area .work4-boxarea .work4-content-area a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 500;
   color: #091515;
@@ -8541,7 +8547,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .work4-section-area .work4-boxarea .work4-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #5A615E;
@@ -8567,7 +8573,7 @@ ul.social-links li a:hover {
 }
 .work5-section-area .work4-header span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: var(--Second-Color, #052A23);
   display: inline-block;
@@ -8578,7 +8584,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .work5-section-area .work4-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   color: var(--Second-Color, #052A23);
@@ -8649,7 +8655,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .work5-section-area .work4-boxarea .work4-autor-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 60px;
   font-weight: 600;
   position: absolute;
@@ -8664,7 +8670,7 @@ ul.social-links li a:hover {
   margin-top: 85px;
 }
 .work5-section-area .work4-boxarea .work4-content-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 600;
   color: var(--Second-Color, #052A23);
@@ -8673,7 +8679,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .work5-section-area .work4-boxarea .work4-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #595E65;
@@ -8708,7 +8714,7 @@ ul.social-links li a:hover {
   display: inline-block;
   padding: 8px 12px;
   margin-bottom: 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -8718,7 +8724,7 @@ ul.social-links li a:hover {
 }
 .works7-section-area .work7-header h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -8726,7 +8732,7 @@ ul.social-links li a:hover {
   line-height: 54px;
 }
 .works7-section-area .work7-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -8801,7 +8807,7 @@ ul.social-links li a:hover {
 }
 .works7-section-area .work-author-box .work-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -8812,7 +8818,7 @@ ul.social-links li a:hover {
 }
 .works7-section-area .work-author-box .work-content p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -8823,7 +8829,7 @@ ul.social-links li a:hover {
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -8907,7 +8913,7 @@ ul.social-links li a:hover {
 }
 .works7-section-area .work-author-box.box2 .work-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -8918,7 +8924,7 @@ ul.social-links li a:hover {
 }
 .works7-section-area .work-author-box.box2 .work-content p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -8929,7 +8935,7 @@ ul.social-links li a:hover {
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -9022,7 +9028,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .team1-section-area .team1-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #AA5615;
   background: rgba(43, 73, 90, 0.1);
@@ -9034,7 +9040,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .team1-section-area .team1-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 400;
@@ -9080,7 +9086,7 @@ ul.social-links li a:hover {
   border-radius: 50%;
 }
 .team1-section-area .team-author-area a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   line-height: 34px;
   color: #0B1B23;
@@ -9089,7 +9095,7 @@ ul.social-links li a:hover {
   margin-bottom: 8px;
 }
 .team1-section-area .team-author-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #3A3A3F;
@@ -9138,7 +9144,7 @@ ul.social-links li a:hover {
   margin-bottom: 50px;
 }
 .team2-section-area .team1-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #573AA9;
@@ -9150,7 +9156,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .team2-section-area .team1-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 400;
@@ -9280,14 +9286,14 @@ ul.social-links li a:hover {
   }
 }
 .team2-section-area .team2-parent-boxarea .team2-textarea a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #140D28;
   display: inline-block;
 }
 .team2-section-area .team2-parent-boxarea .team2-textarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #3A3A3F;
@@ -9328,7 +9334,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .team1-section-area .team-author-area a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -9337,7 +9343,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .team1-section-area .team-author-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -9369,7 +9375,7 @@ ul.social-links li a:hover {
   border-radius: 1px;
   background: rgba(255, 87, 34, 0.2);
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -9380,7 +9386,7 @@ ul.social-links li a:hover {
 }
 .team6-section-area .team6-header h2 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -9487,7 +9493,7 @@ ul.social-links li a:hover {
 }
 .team6-section-area .team6-main-boxarea .team-content a {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -9497,7 +9503,7 @@ ul.social-links li a:hover {
 }
 .team6-section-area .team6-main-boxarea .team-content p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -9521,7 +9527,7 @@ ul.social-links li a:hover {
   border-radius: 1px;
   background: rgba(255, 87, 34, 0.2);
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -9532,14 +9538,14 @@ ul.social-links li a:hover {
 }
 .team7-section-area .team6-header h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 54px;
 }
 .team7-section-area .team6-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -9657,7 +9663,7 @@ ul.social-links li a:hover {
 }
 .team7-section-area .team6-main-boxarea .team-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -9667,7 +9673,7 @@ ul.social-links li a:hover {
 }
 .team7-section-area .team6-main-boxarea .team-content p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -9695,7 +9701,7 @@ ul.social-links li a:hover {
   }
 }
 .footer-section-area .footer-text-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -9739,7 +9745,7 @@ ul.social-links li a:hover {
   }
 }
 .footer-section-area .about-links-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -9750,7 +9756,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer-section-area .about-links-area ul li a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -9781,7 +9787,7 @@ ul.social-links li a:hover {
   }
 }
 .footer-section-area .get-links-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -9796,7 +9802,7 @@ ul.social-links li a:hover {
   margin: 0 12px 0 0;
 }
 .footer-section-area .get-links-area ul li a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -9820,7 +9826,7 @@ ul.social-links li a:hover {
   }
 }
 .footer-section-area .footer-contact-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -9842,17 +9848,17 @@ ul.social-links li a:hover {
   color: #3A3A3F;
   font-size: 16px;
   width: 100%;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer-section-area .footer-contact-area form input::-moz-placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer-section-area .footer-contact-area form input::placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer-section-area .footer-contact-area form .footer-btn {
@@ -9865,7 +9871,7 @@ ul.social-links li a:hover {
   background: #AA5615;
   padding: 16px 20px;
   border-radius: 30px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -9906,7 +9912,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer-section-area .copyright-pera p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -9914,7 +9920,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer-section-area .copyright-pera a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -9942,7 +9948,7 @@ ul.social-links li a:hover {
   }
 }
 .footer2-section-area .footer-text-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -9986,7 +9992,7 @@ ul.social-links li a:hover {
   }
 }
 .footer2-section-area .about-links-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -9997,7 +10003,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer2-section-area .about-links-area ul li a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -10028,7 +10034,7 @@ ul.social-links li a:hover {
   }
 }
 .footer2-section-area .get-links-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -10043,7 +10049,7 @@ ul.social-links li a:hover {
   margin: 0 12px 0 0;
 }
 .footer2-section-area .get-links-area ul li a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -10067,7 +10073,7 @@ ul.social-links li a:hover {
   }
 }
 .footer2-section-area .footer-contact-area h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 400;
@@ -10089,17 +10095,17 @@ ul.social-links li a:hover {
   color: #3A3A3F;
   font-size: 16px;
   width: 100%;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer2-section-area .footer-contact-area form input::-moz-placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer2-section-area .footer-contact-area form input::placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer2-section-area .footer-contact-area form .footer-btn {
@@ -10112,7 +10118,7 @@ ul.social-links li a:hover {
   background: #573AA9;
   padding: 14px 20px;
   border-radius: 4px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -10164,7 +10170,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer2-section-area .copyright-pera p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -10172,7 +10178,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer2-section-area .copyright-pera a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -10199,7 +10205,7 @@ ul.social-links li a:hover {
   }
 }
 .footer3-section-area .footer-text-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10243,7 +10249,7 @@ ul.social-links li a:hover {
   }
 }
 .footer3-section-area .about-links-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 500;
@@ -10254,7 +10260,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer3-section-area .about-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10285,7 +10291,7 @@ ul.social-links li a:hover {
   }
 }
 .footer3-section-area .get-links-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 500;
@@ -10300,7 +10306,7 @@ ul.social-links li a:hover {
   margin: 0 12px 0 0;
 }
 .footer3-section-area .get-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10324,7 +10330,7 @@ ul.social-links li a:hover {
   }
 }
 .footer3-section-area .footer-contact-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 500;
@@ -10346,17 +10352,17 @@ ul.social-links li a:hover {
   color: #3A3A3F;
   font-size: 16px;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer3-section-area .footer-contact-area form input::-moz-placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer3-section-area .footer-contact-area form input::placeholder {
   color: #3A3A3F;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .footer3-section-area .footer-contact-area form .footer-btn {
@@ -10369,7 +10375,7 @@ ul.social-links li a:hover {
   background: #AA5615;
   padding: 16px 20px;
   border-radius: 4px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -10404,7 +10410,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer3-section-area .copyright-pera p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10412,7 +10418,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer3-section-area .copyright-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10439,7 +10445,7 @@ ul.social-links li a:hover {
   }
 }
 .footer4-section-area .footer-text-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10483,7 +10489,7 @@ ul.social-links li a:hover {
   }
 }
 .footer4-section-area .about-links-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10494,7 +10500,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer4-section-area .about-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10525,7 +10531,7 @@ ul.social-links li a:hover {
   }
 }
 .footer4-section-area .get-links-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10540,7 +10546,7 @@ ul.social-links li a:hover {
   margin: 0 12px 0 0;
 }
 .footer4-section-area .get-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10564,7 +10570,7 @@ ul.social-links li a:hover {
   }
 }
 .footer4-section-area .footer-contact-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10586,17 +10592,17 @@ ul.social-links li a:hover {
   color: #3A3A3F;
   font-size: 16px;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer4-section-area .footer-contact-area form input::-moz-placeholder {
   color: #5A615E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer4-section-area .footer-contact-area form input::placeholder {
   color: #5A615E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer4-section-area .footer-contact-area form .footer-btn {
@@ -10609,7 +10615,7 @@ ul.social-links li a:hover {
   background: #aa5515;
   padding: 16px 20px;
   border-radius: 80px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -10629,7 +10635,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer4-section-area .copyright-pera p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10637,7 +10643,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer4-section-area .copyright-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10664,7 +10670,7 @@ ul.social-links li a:hover {
   }
 }
 .footer5-section-area .footer-text-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10708,7 +10714,7 @@ ul.social-links li a:hover {
   }
 }
 .footer5-section-area .about-links-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10719,7 +10725,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer5-section-area .about-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10750,7 +10756,7 @@ ul.social-links li a:hover {
   }
 }
 .footer5-section-area .get-links-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10765,7 +10771,7 @@ ul.social-links li a:hover {
   margin: 0 12px 0 0;
 }
 .footer5-section-area .get-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10789,7 +10795,7 @@ ul.social-links li a:hover {
   }
 }
 .footer5-section-area .footer-contact-area h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 24px;
   font-weight: 600;
@@ -10810,19 +10816,19 @@ ul.social-links li a:hover {
   color: var(--Second-Color, #052A23);
   font-size: 16px;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer5-section-area .footer-contact-area form input::-moz-placeholder {
   color: #595E65;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer5-section-area .footer-contact-area form input::placeholder {
   color: #595E65;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer5-section-area .footer-contact-area form .footer-btn {
@@ -10834,7 +10840,7 @@ ul.social-links li a:hover {
   border: none;
   background: var(--Main-Color, #E5B472);
   padding: 16px 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: var(--Second-Color, #052A23);
   font-weight: 600;
@@ -10854,7 +10860,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer5-section-area .copyright-pera p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10862,7 +10868,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer5-section-area .copyright-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -10890,7 +10896,7 @@ ul.social-links li a:hover {
 }
 .footer6-section-area .footer-text-area p {
   color: rgba(255, 255, 255, 0.8);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -10936,7 +10942,7 @@ ul.social-links li a:hover {
 }
 .footer6-section-area .about-links-area h3 {
   color: #ffffff;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -10947,7 +10953,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer6-section-area .about-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -10979,7 +10985,7 @@ ul.social-links li a:hover {
 }
 .footer6-section-area .get-links-area h3 {
   color: #ffffff;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -10995,7 +11001,7 @@ ul.social-links li a:hover {
   filter: brightness(0) invert(1);
 }
 .footer6-section-area .get-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -11020,7 +11026,7 @@ ul.social-links li a:hover {
 }
 .footer6-section-area .footer-contact-area h3 {
   color: #ffffff;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -11041,19 +11047,19 @@ ul.social-links li a:hover {
   color: #0A141C;
   font-size: 16px;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer6-section-area .footer-contact-area form input::-moz-placeholder {
   color: #0A141C;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer6-section-area .footer-contact-area form input::placeholder {
   color: #0A141C;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer6-section-area .footer-contact-area form .footer-btn {
@@ -11065,7 +11071,7 @@ ul.social-links li a:hover {
   border: none;
   background: #aa5515;
   padding: 17px 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -11084,7 +11090,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer6-section-area .copyright-pera p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11094,7 +11100,7 @@ ul.social-links li a:hover {
   text-align: center;
 }
 .footer6-section-area .copyright-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11123,7 +11129,7 @@ ul.social-links li a:hover {
 }
 .footer7-section-area .footer-text-area p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11170,7 +11176,7 @@ ul.social-links li a:hover {
 }
 .footer7-section-area .about-links-area h3 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -11181,7 +11187,7 @@ ul.social-links li a:hover {
   display: block;
 }
 .footer7-section-area .about-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -11212,7 +11218,7 @@ ul.social-links li a:hover {
 }
 .footer7-section-area .get-links-area h3 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -11228,7 +11234,7 @@ ul.social-links li a:hover {
   filter: brightness(0);
 }
 .footer7-section-area .get-links-area ul li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -11253,7 +11259,7 @@ ul.social-links li a:hover {
 }
 .footer7-section-area .footer-contact-area h3 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -11274,19 +11280,19 @@ ul.social-links li a:hover {
   color: #0A141C;
   font-size: 16px;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer7-section-area .footer-contact-area form input::-moz-placeholder {
   color: #0A141C;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer7-section-area .footer-contact-area form input::placeholder {
   color: #0A141C;
   opacity: 0.8;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .footer7-section-area .footer-contact-area form .footer-btn {
@@ -11299,7 +11305,7 @@ ul.social-links li a:hover {
   background: #aa5515;
   border-radius: 4px;
   padding: 17px 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
@@ -11318,7 +11324,7 @@ ul.social-links li a:hover {
   justify-content: space-between;
 }
 .footer7-section-area .copyright-pera p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11326,7 +11332,7 @@ ul.social-links li a:hover {
   padding: 24px 0 32px;
 }
 .footer7-section-area .copyright-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11340,7 +11346,7 @@ ul.social-links li a:hover {
   position: relative;
 }
 .cta1-section-area h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 40px;
   color: rgba(255, 255, 255, 0.9);
@@ -11358,7 +11364,7 @@ ul.social-links li a:hover {
   }
 }
 .cta1-section-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -11388,7 +11394,7 @@ ul.social-links li a:hover {
 }
 .cta1-section-area .cta-images .consultation {
   color: #0B1B23;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -11458,7 +11464,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
   color: #ffffff;
   font-size: 16px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
 }
 @media (max-width: 767px) {
   .cta2-section-area .cta2-section-hedaer input {
@@ -11471,14 +11477,14 @@ ul.social-links li a:hover {
   }
 }
 .cta2-section-area .cta2-section-hedaer input::-moz-placeholder {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 500;
   opacity: 0.7;
 }
 .cta2-section-area .cta2-section-hedaer input::placeholder {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #ffffff;
   font-weight: 500;
@@ -11496,7 +11502,7 @@ ul.social-links li a:hover {
   width: 100%;
 }
 .cta2-section-area .cta2-section-hedaer .nice-select.country-area ul.list li {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
 }
@@ -11506,7 +11512,7 @@ ul.social-links li a:hover {
 }
 .cta2-section-area .cta2-section-hedaer .nice-select.country-area span {
   color: #ffffff;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -11514,7 +11520,7 @@ ul.social-links li a:hover {
   opacity: 0.7;
 }
 .cta2-section-area .cta2-section-hedaer button.cta-btn2 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
   font-size: 16px;
   color: #573AA9;
@@ -11522,7 +11528,7 @@ ul.social-links li a:hover {
   padding: 16px 16px;
   border: none;
   border-radius: 5px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   text-align: center;
 }
 .cta2-section-area .cta2-section-hedaer button.cta-btn2:hover {
@@ -11552,7 +11558,7 @@ ul.social-links li a:hover {
   }
 }
 .cta2-section-area .cta2-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 400;
@@ -11566,7 +11572,7 @@ ul.social-links li a:hover {
   }
 }
 .cta2-section-area .cta2-header p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -11577,7 +11583,7 @@ ul.social-links li a:hover {
   background: #AA5615;
 }
 .ca3-scetion-area .cta3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 500;
@@ -11591,7 +11597,7 @@ ul.social-links li a:hover {
   }
 }
 .ca3-scetion-area .cta3-header p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11602,7 +11608,7 @@ ul.social-links li a:hover {
   background: #aa5515;
 }
 .cta4-scetion-area .cta3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 500;
@@ -11616,7 +11622,7 @@ ul.social-links li a:hover {
   }
 }
 .cta4-scetion-area .cta3-header p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -11666,7 +11672,7 @@ ul.social-links li a:hover {
   z-index: -1;
 }
 .cta5-section-area .cta5-header-area h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   font-weight: 600;
@@ -11717,7 +11723,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .cta5-section-area .cta-contact-area .cta5-author-area .cta5-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #ffffff;
@@ -11725,7 +11731,7 @@ ul.social-links li a:hover {
   margin-bottom: 8px;
 }
 .cta5-section-area .cta-contact-area .cta5-author-area .cta5-content a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: #ffffff;
   font-weight: 600;
@@ -11749,7 +11755,7 @@ ul.social-links li a:hover {
 }
 .cta6-section-area .cta6-header-area h2 {
   color: #ffffff;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -11764,7 +11770,7 @@ ul.social-links li a:hover {
 }
 .cta6-section-area .cta6-header-area p {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11806,7 +11812,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .cta6-section-area .cta-contact-area .cta5-author-area .cta5-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #ffffff;
@@ -11814,7 +11820,7 @@ ul.social-links li a:hover {
   margin-bottom: 8px;
 }
 .cta6-section-area .cta-contact-area .cta5-author-area .cta5-content a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: #ffffff;
   font-weight: 600;
@@ -11826,7 +11832,7 @@ ul.social-links li a:hover {
 }
 .cta7-section-area .cta2-section-hedaer .cta2-header h2 {
   color: rgba(255, 255, 255, 0.9);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -11834,7 +11840,7 @@ ul.social-links li a:hover {
   margin-bottom: 14px;
 }
 .cta7-section-area .cta2-section-hedaer .cta2-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -11859,7 +11865,7 @@ ul.social-links li a:hover {
 }
 .cta7-section-area .cta2-section-hedaer .cta2-header p {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11879,7 +11885,7 @@ ul.social-links li a:hover {
 .cta7-section-area .cta2-section-hedaer .cta-contact-area .cta-input input {
   background: #2a2827;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   padding: 20px 16px;
   margin-top: 20px;
@@ -11888,7 +11894,7 @@ ul.social-links li a:hover {
 }
 .cta7-section-area .cta2-section-hedaer .cta-contact-area .cta-input input::-moz-placeholder {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11897,7 +11903,7 @@ ul.social-links li a:hover {
 }
 .cta7-section-area .cta2-section-hedaer .cta-contact-area .cta-input input::placeholder {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11908,7 +11914,7 @@ ul.social-links li a:hover {
   outline: none;
   border: none;
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -11978,7 +11984,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .blog1-section-area .blog-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -11990,7 +11996,7 @@ ul.social-links li a:hover {
   color: #AA5615;
 }
 .blog1-section-area .blog-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 40px;
   font-weight: 400;
@@ -12108,7 +12114,7 @@ ul.social-links li a:hover {
   margin: 0 8px 0 0;
 }
 .blog1-section-area .blog-boxarea .blog-all-textarea .blog-text-area .blog-name-area a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #0B1B23;
@@ -12117,7 +12123,7 @@ ul.social-links li a:hover {
   margin: 0;
 }
 .blog1-section-area .blog-boxarea .blog-all-textarea a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 30px;
   font-weight: 400;
@@ -12128,7 +12134,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog1-section-area .blog-boxarea .blog-all-textarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #3A3A3F;
   font-size: 16px;
@@ -12136,7 +12142,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog1-section-area .blog-boxarea .blog-all-textarea a.readmore {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 600;
@@ -12169,7 +12175,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .blog1-section-area.blog2-section .blog-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -12181,7 +12187,7 @@ ul.social-links li a:hover {
   color: #573AA9;
 }
 .blog1-section-area.blog2-section .blog-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 40px;
   font-weight: 400;
@@ -12299,7 +12305,7 @@ ul.social-links li a:hover {
   margin: 0 8px 0 0;
 }
 .blog1-section-area.blog2-section .blog-boxarea .blog-all-textarea .blog-text-area .blog-name-area a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #140D28;
@@ -12308,7 +12314,7 @@ ul.social-links li a:hover {
   margin: 0;
 }
 .blog1-section-area.blog2-section .blog-boxarea .blog-all-textarea a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 30px;
   font-weight: 400;
@@ -12319,7 +12325,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog1-section-area.blog2-section .blog-boxarea .blog-all-textarea p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #3A3A3F;
   font-size: 16px;
@@ -12327,7 +12333,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog1-section-area.blog2-section .blog-boxarea .blog-all-textarea a.readmore {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 600;
@@ -12357,7 +12363,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .blog3-section-area .blog3-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   display: inline-block;
@@ -12369,7 +12375,7 @@ ul.social-links li a:hover {
   margin-bottom: 24px;
 }
 .blog3-section-area .blog3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   color: #070812;
@@ -12471,7 +12477,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog3-section-area .blog3-boxarea .blog3-content-area .calender-content .blog3-pera a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #070812;
   font-weight: 500;
@@ -12479,7 +12485,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog3-section-area .blog3-boxarea .blog3-content-area a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 500;
   color: #070812;
@@ -12488,7 +12494,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog3-section-area .blog3-boxarea .blog3-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -12496,7 +12502,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog3-section-area .blog3-boxarea .blog3-content-area a.learnmore {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: #070812;
@@ -12535,7 +12541,7 @@ ul.social-links li a:hover {
 }
 .blog4-section-area .blog4-author-header .blog4-header span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #aa5515;
   padding: 8px 10px;
@@ -12546,7 +12552,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .blog4-section-area .blog4-author-header .blog4-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   color: #091515;
@@ -12617,7 +12623,7 @@ ul.social-links li a:hover {
 }
 .blog4-section-area .blog4-boxarea .blog4-content-area .blog4-date-area a {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #091515;
   display: inline-block;
   margin-top: 5px;
@@ -12627,7 +12633,7 @@ ul.social-links li a:hover {
   margin-left: 8px;
 }
 .blog4-section-area .blog4-boxarea .blog4-content-area a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 500;
   color: #091515;
@@ -12637,7 +12643,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog4-section-area .blog4-boxarea .blog4-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -12645,7 +12651,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog4-section-area .blog4-boxarea .blog4-content-area a.readmore {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #091515;
@@ -12666,7 +12672,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .blog5-section-area .blog5-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: var(--Second-Color, #052A23);
@@ -12679,7 +12685,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .blog5-section-area .blog5-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   color: #08111C;
@@ -12733,7 +12739,7 @@ ul.social-links li a:hover {
   padding: 24px;
 }
 .blog5-section-area .blog5-boxarea .blog5-content-area .tags-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   padding: 8px 10px;
   display: inline-block;
@@ -12751,7 +12757,7 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog5-section-area .blog5-boxarea .blog5-content-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 22px;
   line-height: 28px;
   font-weight: 600;
@@ -12765,14 +12771,14 @@ ul.social-links li a:hover {
   transition: all 0.4s ease-in-out;
 }
 .blog5-section-area .blog5-boxarea .blog5-content-area P {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
   color: #595E65;
 }
 .blog5-section-area .blog5-boxarea .blog5-content-area a.readmore {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: var(--Second-Color, #052A23);
@@ -12806,7 +12812,7 @@ ul.social-links li a:hover {
 .inner-pages .pagination-area nav ul li a {
   color: #070812;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -12830,7 +12836,7 @@ ul.social-links li a:hover {
 .inner-pages .pagination-area nav ul li a span {
   color: #070812;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -12861,7 +12867,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog4-section-area .blog4-content-area .blog4-date-area a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -12869,7 +12875,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog4-section-area .blog4-content-area a {
   color: var(--Text-Color, #070812);
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -12877,7 +12883,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog4-section-area .blog4-content-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -12885,7 +12891,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog4-section-area .blog4-content-area a.readmore {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -12893,7 +12899,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog5-boxarea .blog5-content-area .tags-area a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -12903,7 +12909,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog5-boxarea .blog5-content-area a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
@@ -12914,7 +12920,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog5-boxarea .blog5-content-area a.readmore {
   color: #AA5615;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -12945,7 +12951,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog1-section-area .blog-boxarea .blog-all-textarea .blog-text-area .blog-name-area a p {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -12953,7 +12959,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog1-section-area .blog-boxarea .blog-all-textarea a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -12961,7 +12967,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog1-section-area .blog-boxarea .blog-all-textarea p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -12969,7 +12975,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog1-section-area .blog-boxarea .blog-all-textarea a.readmore {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -12997,7 +13003,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .search-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -13013,7 +13019,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .search-area form input::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13022,7 +13028,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .search-area form input::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13050,7 +13056,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .blog-categories h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -13075,7 +13081,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
   transition: all 0.4s ease-in-out;
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -13104,7 +13110,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .author-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -13126,7 +13132,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .popular-tags-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -13135,7 +13141,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .popular-tags-area .first-tags a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13155,7 +13161,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .popular-tags-area .second-tags a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13175,7 +13181,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .popular-tags-area .third-tags a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13201,7 +13207,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .phone-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -13209,7 +13215,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .phone-area a {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -13239,7 +13245,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .recent-blog-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -13261,7 +13267,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .recent-blog-area .recent-content-area .recent-content a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 500;
@@ -13278,7 +13284,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-leftber-area .recent-blog-area .recent-content-area .recent-content a.recent-single {
   color: var(--Text-Color, #070812);
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -13360,7 +13366,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-auhtor-area .blog-auhtor-img1 a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
@@ -13385,7 +13391,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-auhtor-area .date-img a {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -13404,7 +13410,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-left-content-area h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -13419,7 +13425,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-left-content-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13433,7 +13439,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-left-content-area2 h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -13442,7 +13448,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-left-content-area2 p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13461,7 +13467,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-auhtor-area3 h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -13470,7 +13476,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-auhtor-area3 p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13502,7 +13508,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-nav-area .quito-content p {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -13525,7 +13531,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-nav-area .quito-content .nav-img-area .nav-content-area a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -13540,7 +13546,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-nav-area .quito-content .nav-img-area .nav-content-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13566,7 +13572,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .tags-share-area .share-area h5 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -13576,7 +13582,7 @@ ul.social-links li a:hover {
   background: var(--Gray-Color, #F4F3EF);
   display: inline-block;
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13631,7 +13637,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .comment-section-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -13657,7 +13663,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .comment-section-area .comment-auhtor-area .comments-area .comment-imgages a {
   color: var(--Text-Color, #070812);
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -13667,7 +13673,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .comment-section-area .comment-auhtor-area .comments-area .comment-imgages a.date {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13678,7 +13684,7 @@ ul.social-links li a:hover {
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .comment-section-area .comment-auhtor-area .comments-area .reply-content a {
   color: #070812;
   text-align: justify;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13695,7 +13701,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .comment-section-area .comment-auhtor-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -13715,7 +13721,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   font-style: normal;
   font-weight: 500;
@@ -13729,7 +13735,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact h4 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -13738,7 +13744,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13752,7 +13758,7 @@ ul.social-links li a:hover {
   border-radius: 2px;
   background: #ffffff;
   padding: 20px 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   width: 100%;
   margin-top: 20px;
@@ -13761,7 +13767,7 @@ ul.social-links li a:hover {
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact .input-area input::-moz-placeholder {
   color: #070812;
   opacity: 0.7;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13770,7 +13776,7 @@ ul.social-links li a:hover {
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact .input-area input::placeholder {
   color: #070812;
   opacity: 0.7;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13780,7 +13786,7 @@ ul.social-links li a:hover {
   border-radius: 2px;
   background: #ffffff;
   padding: 20px 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   width: 100%;
   margin-top: 20px;
@@ -13791,7 +13797,7 @@ ul.social-links li a:hover {
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact .input-area textarea::-moz-placeholder {
   color: #070812;
   opacity: 0.7;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13800,7 +13806,7 @@ ul.social-links li a:hover {
 .inner-pages .blog5-section-area .blog-left-details .blog-left-images .blog-contact-area .blog-auhtor-contact .input-area textarea::placeholder {
   color: #070812;
   opacity: 0.7;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13810,7 +13816,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
   background: #AA5615;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -13836,7 +13842,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .blog5-section-area.footer .blog-left-header h2 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -13871,7 +13877,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blog6-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13884,7 +13890,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blog6-header h2 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -13898,7 +13904,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blog6-header p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13944,7 +13950,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blo6-author-area .blog-content1 a {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -13959,7 +13965,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blo6-author-area .blog-content1 p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13967,7 +13973,7 @@ ul.social-links li a:hover {
 }
 .blog-6-section-area .blo6-author-area .blog-content1 a.readmore {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -14001,7 +14007,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
   background: rgba(255, 87, 34, 0.1);
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -14012,14 +14018,14 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-header h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 44px;
 }
 .blog7-section-area .blog7-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -14117,7 +14123,7 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-box-area .blog7-textarea .blog-text-area .blog-name-area a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -14126,7 +14132,7 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-box-area .blog7-textarea .blog-text-area .blog-name-area a p {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -14138,7 +14144,7 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-box-area .blog7-textarea a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -14154,7 +14160,7 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-box-area .blog7-textarea p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -14162,7 +14168,7 @@ ul.social-links li a:hover {
 }
 .blog7-section-area .blog7-box-area .blog7-textarea a.readmore {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -14232,7 +14238,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .testimonial1-scertion-area .testimonial1-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   color: #AA5615;
@@ -14243,7 +14249,7 @@ ul.social-links li a:hover {
   display: inline-block;
 }
 .testimonial1-scertion-area .testimonial1-header h2 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   color: #0B1B23;
   line-height: 50px;
@@ -14374,7 +14380,7 @@ ul.social-links li a:hover {
   margin: 0 3px 0 0;
 }
 .testimonial1-scertion-area .testimonial-author-area p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
@@ -14401,7 +14407,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .testimonial1-scertion-area .testimonial-author-area .testimonial-mans-infoarea .testimonial-man-info .img-text a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #0B1B23;
@@ -14409,7 +14415,7 @@ ul.social-links li a:hover {
   display: inline-block;
 }
 .testimonial1-scertion-area .testimonial-author-area .testimonial-mans-infoarea .testimonial-man-info .img-text p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -14458,7 +14464,7 @@ ul.social-links li a:hover {
   }
 }
 .testimonial2-section-area .testimonial2-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   line-height: 16px;
   font-size: 16px;
@@ -14471,7 +14477,7 @@ ul.social-links li a:hover {
 }
 .testimonial2-section-area .testimonial2-header h2 {
   font-size: 40px;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   line-height: 50px;
   font-weight: 400;
   color: #140D28;
@@ -14490,7 +14496,7 @@ ul.social-links li a:hover {
   top: -15px;
 }
 .testimonial2-section-area .testimonial2-header p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -14520,7 +14526,7 @@ ul.social-links li a:hover {
   margin: 0 3px 0 0;
 }
 .testimonial2-section-area .testimonial-carousel-box p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
@@ -14547,7 +14553,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .testimonial2-section-area .testimonial-carousel-box .testimonial-mans-infoarea .testimonial-man-info .img-text a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #0B1B23;
@@ -14555,7 +14561,7 @@ ul.social-links li a:hover {
   display: inline-block;
 }
 .testimonial2-section-area .testimonial-carousel-box .testimonial-mans-infoarea .testimonial-man-info .img-text p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -14618,7 +14624,7 @@ ul.social-links li a:hover {
   }
 }
 .testimonial2-section-area .testimonial2-header span {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   line-height: 16px;
   font-size: 16px;
@@ -14631,7 +14637,7 @@ ul.social-links li a:hover {
 }
 .testimonial2-section-area .testimonial2-header h1 {
   font-size: 40px;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   line-height: 50px;
   font-weight: 400;
   color: #140D28;
@@ -14650,7 +14656,7 @@ ul.social-links li a:hover {
   top: -15px;
 }
 .testimonial2-section-area .testimonial2-header p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 500;
@@ -14680,7 +14686,7 @@ ul.social-links li a:hover {
   margin: 0 3px 0 0;
 }
 .testimonial2-section-area .testimonial-carousel-box p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
@@ -14707,7 +14713,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .testimonial2-section-area .testimonial-carousel-box .testimonial-mans-infoarea .testimonial-man-info .img-text a {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #0B1B23;
@@ -14715,7 +14721,7 @@ ul.social-links li a:hover {
   display: inline-block;
 }
 .testimonial2-section-area .testimonial-carousel-box .testimonial-mans-infoarea .testimonial-man-info .img-text p {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 500;
@@ -14752,7 +14758,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .testimonial3-section-area .testimonial3-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #AA5615;
@@ -14764,7 +14770,7 @@ ul.social-links li a:hover {
   background: rgba(255, 125, 0, 0.1);
 }
 .testimonial3-section-area .testimonial3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-weight: 500;
   color: #070812;
@@ -14832,7 +14838,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
 }
 .testimonial3-section-area .testimonial3-slider-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   line-height: 46px;
   font-weight: 500;
@@ -14861,7 +14867,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .testimonial3-section-area .testimonial3-slider-content-area .testimonial3-man-info-area .man3-text p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #3C3E4E;
@@ -14869,7 +14875,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .testimonial3-section-area .testimonial3-slider-content-area .testimonial3-man-info-area .man3-text a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 500;
   color: #3C3E4E;
@@ -14999,7 +15005,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .testimonial4-section-area .testimonial3-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #aa5515;
@@ -15011,7 +15017,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .testimonial4-section-area .testimonial3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   font-weight: 500;
@@ -15074,7 +15080,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
 }
 .testimonial4-section-area .testimonial3-slider-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 28px;
   line-height: 38px;
   font-weight: 500;
@@ -15108,7 +15114,7 @@ ul.social-links li a:hover {
   margin-left: 16px;
 }
 .testimonial4-section-area .testimonial3-slider-content-area .testimonial3-man-info-area .man3-text p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #3A3A3F;
@@ -15116,7 +15122,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .testimonial4-section-area .testimonial3-slider-content-area .testimonial3-man-info-area .man3-text a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 600;
   color: #3C3E4E;
@@ -15287,7 +15293,7 @@ ul.social-links li a:hover {
 }
 .testimonial5-section-area .testimonial3-header span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: var(--Second-Color, #052A23);
   display: inline-block;
@@ -15298,7 +15304,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .testimonial5-section-area .testimonial3-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   font-weight: 600;
@@ -15335,7 +15341,7 @@ ul.social-links li a:hover {
   border-radius: 4px;
 }
 .testimonial5-section-area .testimonial-content-slider .testimonial-slider-boxarea p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   font-weight: 500;
@@ -15357,7 +15363,7 @@ ul.social-links li a:hover {
 }
 .testimonial5-section-area .testimonial-content-slider .testimonial-slider-boxarea .testimonial5-all-content .mans-slider-info .content a {
   font-size: 24px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: var(--Second-Color, #052A23);
   font-weight: 600;
   display: inline-block;
@@ -15365,7 +15371,7 @@ ul.social-links li a:hover {
 }
 .testimonial5-section-area .testimonial-content-slider .testimonial-slider-boxarea .testimonial5-all-content .mans-slider-info .content p {
   margin-bottom: 0;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   opacity: 0.8;
@@ -15391,7 +15397,7 @@ ul.social-links li a:hover {
   margin-bottom: 60px;
 }
 .testimonial6-section-area .testimonial6-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: var(--Second-Color, #052A23);
@@ -15403,7 +15409,7 @@ ul.social-links li a:hover {
   line-height: 16px;
 }
 .testimonial6-section-area .testimonial6-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   line-height: 54px;
   font-weight: 600;
@@ -15454,7 +15460,7 @@ ul.social-links li a:hover {
 }
 .testimonial6-section-area .testimonial6-box p {
   font-size: 18px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 30px;
   font-weight: 500;
   color: #08111C;
@@ -15474,7 +15480,7 @@ ul.social-links li a:hover {
   margin-left: 14px;
 }
 .testimonial6-section-area .testimonial6-box .testimonial6-auito-flex .tesimonial6-man-info .testimonial6-text a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 600;
   color: #08111C;
@@ -15483,7 +15489,7 @@ ul.social-links li a:hover {
 }
 .testimonial6-section-area .testimonial6-box .testimonial6-auito-flex .tesimonial6-man-info .testimonial6-text p {
   font-size: 16px;
-  font-family: 16px;
+  font-family: Arial, sans-serif;
   color: #08111C;
   opacity: 0.8;
   line-height: 16px;
@@ -15611,7 +15617,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .testimonial-boxarea p {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -15632,7 +15638,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .testimonial-boxarea .testimonial-author-area .testimonial-images-area .testimonial-content a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -15642,7 +15648,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .testimonial-boxarea .testimonial-author-area .testimonial-images-area .testimonial-content a.date {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -15675,7 +15681,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .blog-nav-area .quito-content p {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -15698,7 +15704,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .blog-nav-area .quito-content .nav-img-area .nav-content-area a {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -15713,7 +15719,7 @@ ul.social-links li a:hover {
 }
 .inner-pages .testimonial-section-area .blog-nav-area .quito-content .nav-img-area .nav-content-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -15739,7 +15745,7 @@ ul.social-links li a:hover {
 }
 .testimonial-main-setion-area .testimonial6-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -15753,7 +15759,7 @@ ul.social-links li a:hover {
 .testimonial-main-setion-area .testimonial6-header h2 {
   color: #0A141C;
   text-align: center;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -15794,7 +15800,7 @@ ul.social-links li a:hover {
 }
 .testimonial-main-setion-area .testimonial-auhtor-main-area .testimonial6-auhtor-boxarea .testimonial6-content p {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -15823,7 +15829,7 @@ ul.social-links li a:hover {
 }
 .testimonial-main-setion-area .testimonial-auhtor-main-area .testimonial6-auhtor-boxarea .testimonial6-content .testimonial-man .content a {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -15833,7 +15839,7 @@ ul.social-links li a:hover {
 }
 .testimonial-main-setion-area .testimonial-auhtor-main-area .testimonial6-auhtor-boxarea .testimonial6-content .testimonial-man .content p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -15929,7 +15935,7 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-haeder span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -15942,14 +15948,14 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-haeder h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 44px;
 }
 .testimonial7-section-area .testimonial7-haeder h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -16011,7 +16017,7 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-main-area .testimonial7-area ul li a span {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -16019,7 +16025,7 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-main-area .testimonial7-area p {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -16042,7 +16048,7 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-main-area .testimonial7-area .mans-img-area .img-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -16052,7 +16058,7 @@ ul.social-links li a:hover {
 }
 .testimonial7-section-area .testimonial7-main-area .testimonial7-area .mans-img-area .img-content p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -16680,7 +16686,7 @@ img.elementors-service2 {
 }
 .others6-section-area .text-headlines__item {
   font-weight: 400;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 56px;
   color: #ffffff;
   -webkit-text-fill-color: transparent;
@@ -16734,7 +16740,7 @@ img.elementors-service2 {
   margin-bottom: 60px;
 }
 .contact3-section-area .contcat3-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #AA5615;
   font-weight: 400;
@@ -16746,7 +16752,7 @@ img.elementors-service2 {
   display: inline-block;
 }
 .contact3-section-area .contcat3-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   line-height: 50px;
   font-weight: 500;
@@ -16803,7 +16809,7 @@ img.elementors-service2 {
   margin: 0 auto;
 }
 .contact3-section-area .contact3-boxarea .contact3-all-boxarea h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-weight: 500;
   color: #070812;
@@ -16822,14 +16828,14 @@ img.elementors-service2 {
   height: 52px;
 }
 .contact3-section-area .contact3-boxarea .contact3-all-boxarea input::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #070812;
   opacity: 0.6;
 }
 .contact3-section-area .contact3-boxarea .contact3-all-boxarea input::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #070812;
@@ -16847,14 +16853,14 @@ img.elementors-service2 {
   border-radius: 4px;
 }
 .contact3-section-area .contact3-boxarea .contact3-all-boxarea textarea::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #070812;
   opacity: 0.6;
 }
 .contact3-section-area .contact3-boxarea .contact3-all-boxarea textarea::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #070812;
@@ -16879,14 +16885,14 @@ img.elementors-service2 {
   border-radius: 5px;
 }
 .contect4-section-area .contact4-from-area h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   color: #091515;
   font-weight: 500;
   margin-bottom: 14px;
 }
 .contect4-section-area .contact4-from-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #5A615E;
@@ -16900,19 +16906,19 @@ img.elementors-service2 {
   background: #F0F1F1;
   margin-top: 20px;
   border-radius: 4px;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   height: 56px;
 }
 .contect4-section-area .contact4-from-area .contact4-input-area .contcat4-input input::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #091515;
   font-weight: 400;
   opacity: 0.7;
 }
 .contect4-section-area .contact4-from-area .contact4-input-area .contcat4-input input::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #091515;
   font-weight: 400;
@@ -16927,18 +16933,18 @@ img.elementors-service2 {
   margin-top: 20px;
   border-radius: 4px;
   height: 140px;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
 }
 .contect4-section-area .contact4-from-area .contact4-input-area .contcat4-input textarea::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #091515;
   font-weight: 400;
   opacity: 0.7;
 }
 .contect4-section-area .contact4-from-area .contact4-input-area .contcat4-input textarea::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #091515;
   font-weight: 400;
@@ -16952,7 +16958,7 @@ img.elementors-service2 {
   border-radius: 80px;
   padding: 14px 24px;
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   transition: all 0.4s ease-in-out;
   text-align: right !important;
   margin-top: 32px;
@@ -16983,7 +16989,7 @@ img.elementors-service2 {
   }
 }
 .contect4-section-area .contact4-header span {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #aa5515;
@@ -16995,7 +17001,7 @@ img.elementors-service2 {
   line-height: 16px;
 }
 .contect4-section-area .contact4-header h2 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   line-height: 54px;
   font-weight: 500;
@@ -17009,7 +17015,7 @@ img.elementors-service2 {
   }
 }
 .contect4-section-area .contact4-header p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -17054,7 +17060,7 @@ img.elementors-service2 {
   margin-bottom: 10px;
 }
 .contect4-section-area .contact4-header .contact-calls-area .contact-call-content a {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   color: #091515;
   display: inline-block;
@@ -17092,7 +17098,7 @@ img.elementors-service2 {
 }
 .contact5-section-area .contact5-content-area span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
   padding: 8px 10px;
   border-radius: 4px;
@@ -17104,7 +17110,7 @@ img.elementors-service2 {
 }
 .contact5-section-area .contact5-content-area h2 {
   font-size: 44px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 54px;
   font-weight: 600;
   color: #08111C;
@@ -17127,7 +17133,7 @@ img.elementors-service2 {
   }
 }
 .contact5-section-area .contact5-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
@@ -17140,20 +17146,20 @@ img.elementors-service2 {
   border-radius: 4px;
   padding: 16px;
   margin-top: 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: var(--Second-Color, #052A23);
   height: 48px;
 }
 .contact5-section-area .contact5-content-area .input-area input::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
   font-weight: 400;
 }
 .contact5-section-area .contact5-content-area .input-area input::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
@@ -17165,7 +17171,7 @@ img.elementors-service2 {
   border-radius: 4px;
   padding: 16px;
   margin-top: 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: var(--Second-Color, #052A23);
   border: none;
@@ -17173,14 +17179,14 @@ img.elementors-service2 {
   height: 120px;
 }
 .contact5-section-area .contact5-content-area .input-area textarea::-moz-placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
   font-weight: 400;
 }
 .contact5-section-area .contact5-content-area .input-area textarea::placeholder {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
@@ -17191,7 +17197,7 @@ img.elementors-service2 {
   background: #ffffff;
   border-radius: 4px;
   margin-top: 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color: var(--Second-Color, #052A23);
   border: none;
@@ -17201,7 +17207,7 @@ img.elementors-service2 {
 .contact5-section-area .contact5-content-area .input-area .first-name-input .nice-select span {
   background: none;
   padding: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
@@ -17210,7 +17216,7 @@ img.elementors-service2 {
   width: 100%;
 }
 .contact5-section-area .contact5-content-area .input-area .first-name-input .nice-select ul.list li {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #08111C;
   opacity: 0.6;
@@ -17219,7 +17225,7 @@ img.elementors-service2 {
   text-align: right;
 }
 .contact5-section-area .contact5-content-area .input-area1 button {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: var(--Second-Color, #052A23);
@@ -17297,7 +17303,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area h3 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -17306,7 +17312,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17319,12 +17325,12 @@ img.elementors-service2 {
   height: 52px;
   padding: 18px 16px;
   margin-top: 20px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area .contact-inner input::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17333,7 +17339,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area .contact-inner input::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17350,12 +17356,12 @@ img.elementors-service2 {
   border: none;
   outline: none;
   height: 82px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area .contact-inner textarea::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17364,7 +17370,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-submit-area .contact-inner textarea::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17375,7 +17381,7 @@ img.elementors-service2 {
   border-radius: 1px;
   background: var(--Main-Color, #AA5615);
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -17429,7 +17435,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-widget-area .content h4 {
   color: #070812;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -17439,7 +17445,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area .contact-widget-area .content a {
   color: var(--Paragraph-Color, #3C3E4E);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -17473,7 +17479,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area.contact2 .contact-content-area h2 {
   color: var(--Text-Color, #070812);
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -17487,7 +17493,7 @@ img.elementors-service2 {
 }
 .inner-pages .contact1-section-area .contact-auhtor-area.contact2 .contact-content-area p {
   color: #3C3E4E;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17523,7 +17529,7 @@ img.elementors-service2 {
   border-radius: 1px;
   background: var(--Main-Color, #AA5615);
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -17569,7 +17575,7 @@ img.elementors-service2 {
 .inner-pages .contact1-section-area .contact3-header h2 {
   color: #070812;
   text-align: center;
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -17585,7 +17591,7 @@ img.elementors-service2 {
 .inner-pages .contact1-section-area .contact3-header p {
   color: #3C3E4E;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17611,7 +17617,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact6-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17625,7 +17631,7 @@ img.elementors-service2 {
 .contact6-section-area .contact6-header h2 {
   color: #0A141C;
   text-align: center;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -17649,7 +17655,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area h3 {
   color: #0A141C;
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -17658,7 +17664,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area p {
   color: var(--Paragraph-Color, #515456);
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17667,7 +17673,7 @@ img.elementors-service2 {
 .contact6-section-area .contact-main-area .contact-placeholder input {
   background: #F3F3F3;
   padding: 18px 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #0A141C;
   width: 100%;
@@ -17678,7 +17684,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area .contact-placeholder input::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17687,7 +17693,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area .contact-placeholder input::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17697,7 +17703,7 @@ img.elementors-service2 {
 .contact6-section-area .contact-main-area .contact-placeholder textarea {
   background: #F3F3F3;
   padding: 18px 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #0A141C;
   width: 100%;
@@ -17708,7 +17714,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area .contact-placeholder textarea::-moz-placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17717,7 +17723,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area .contact-placeholder textarea::placeholder {
   color: #070812;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17726,7 +17732,7 @@ img.elementors-service2 {
 }
 .contact6-section-area .contact-main-area .contact-placeholder button {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -17828,7 +17834,7 @@ img.elementors-service2 {
   border-radius: 4px;
   background: rgba(255, 255, 255, 0.1);
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -17839,14 +17845,14 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact7-header h2 {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 44px;
 }
 .contact7-section-area .contact7-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -17887,7 +17893,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area h3 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -17896,7 +17902,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area p {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17906,7 +17912,7 @@ img.elementors-service2 {
 .contact7-section-area .contact-submit-area .contact-info input {
   background: #D9D9D9;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   padding: 16px;
   height: 48px;
@@ -17914,7 +17920,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area .contact-info input::-moz-placeholder {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17922,7 +17928,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area .contact-info input::placeholder {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17931,7 +17937,7 @@ img.elementors-service2 {
 .contact7-section-area .contact-submit-area .contact-info textarea {
   background: #D9D9D9;
   width: 100%;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   padding: 16px;
   height: 115px;
@@ -17941,7 +17947,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area .contact-info textarea::-moz-placeholder {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17949,7 +17955,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-submit-area .contact-info textarea::placeholder {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17959,7 +17965,7 @@ img.elementors-service2 {
   border-radius: 4px;
   background: #aa5515;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -18067,7 +18073,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-main-boxarea .contact-box-area .contact-content h4 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -18077,7 +18083,7 @@ img.elementors-service2 {
 }
 .contact7-section-area .contact-main-boxarea .contact-box-area .contact-content a {
   color: #515456;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -18102,7 +18108,7 @@ img.elementors-service2 {
 }
 .casestudy5-section-area .casestudy5-header span {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
   padding: 8px 10px;
   font-weight: 400;
@@ -18113,7 +18119,7 @@ img.elementors-service2 {
   line-height: 16px;
 }
 .casestudy5-section-area .casestudy5-header h2 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 46px;
   font-weight: 600;
   color: var(--Second-Color, #052A23);
@@ -18194,7 +18200,7 @@ img.elementors-service2 {
   }
 }
 .casestudy5-section-area .casestudy5-all-area .casestudy5-content-area a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 22px;
   line-height: 28px;
   font-weight: 600;
@@ -18210,14 +18216,14 @@ img.elementors-service2 {
   transition: all 0.4s ease-in-out;
 }
 .casestudy5-section-area .casestudy5-all-area .casestudy5-content-area p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
   color: #595E65;
 }
 .casestudy5-section-area .casestudy5-all-area .casestudy5-content-area a.learnmore {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   color: var(--Second-Color, #052A23);
@@ -18258,7 +18264,7 @@ img.elementors-service2 {
 }
 .case-study7-section-area .case-study-header span {
   color: #aa5515;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -18271,14 +18277,14 @@ img.elementors-service2 {
 }
 .case-study7-section-area .case-study-header h2 {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
   line-height: 54px;
 }
 .case-study7-section-area .case-study-header h2 .defence {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 44px;
   font-style: normal;
   font-weight: 600;
@@ -18343,7 +18349,7 @@ img.elementors-service2 {
 }
 .case-study7-section-area .casestudy-carousel-area .case7-study-area .case-study7-boxarea .case-study-carousel-content a {
   color: #0A141C;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -18394,7 +18400,7 @@ img.elementors-service2 {
 .case-study7-section-area .casestudy-carousel-area .case7-study-area .case-study7-boxarea .polygon-author .polygon-arrow a {
   color: #0A141C;
   text-align: center;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -18460,7 +18466,7 @@ img.elementors-service2 {
 }
 .mobile-sidebar.sidebar1 .allmobilesection .tax-services {
   display: inline-block;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 16px;
   font-weight: 600;
@@ -18497,7 +18503,7 @@ img.elementors-service2 {
   transition: all 0.4s ease-in-out;
 }
 .mobile-sidebar.sidebar1 .allmobilesection h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #0B1B23;
@@ -18509,7 +18515,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #0B1B23;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar1 .allmobilesection .contact-info-single {
@@ -18544,7 +18550,7 @@ img.elementors-service2 {
   background: #F6F4FC;
 }
 .mobile-sidebar.sidebar2 .allmobilesection a.welconme-btn2 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 600;
   color: #ffffff;
@@ -18598,7 +18604,7 @@ img.elementors-service2 {
   height: 100%;
 }
 .mobile-sidebar.sidebar2 .allmobilesection h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #0B1B23;
@@ -18610,7 +18616,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #0B1B23;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar2 .allmobilesection .contact-info-single {
@@ -18645,11 +18651,11 @@ img.elementors-service2 {
   background: #F4F3EF;
 }
 .mobile-sidebar.sidebar3 .mobile-nav li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .mobile-sidebar.sidebar3 .allmobilesection .casebtn1 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #ffffff;
@@ -18690,7 +18696,7 @@ img.elementors-service2 {
   color: #ffffff;
 }
 .mobile-sidebar.sidebar3 .allmobilesection h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #0B1B23;
@@ -18702,7 +18708,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #0B1B23;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar3 .allmobilesection .contact-info-single {
@@ -18737,15 +18743,15 @@ img.elementors-service2 {
   background: #ECF7FF;
 }
 .mobile-sidebar.sidebar4 .mobile-nav li a {
-  font-family: "Outfit", sans-serif !important;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .mobile-sidebar.sidebar4 .sidebar-menu li a {
-  font-family: "Outfit", sans-serif !important;
+  font-family: Arial, sans-serif;
 }
 .mobile-sidebar.sidebar4 .allmobilesection .welcome-btn4 {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #ffffff;
   font-weight: 700;
   background: #aa5515;
@@ -18764,7 +18770,7 @@ img.elementors-service2 {
   transform: translateY(-5px);
 }
 .mobile-sidebar.sidebar4 .allmobilesection h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #0B1B23;
@@ -18776,7 +18782,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #0B1B23;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar4 .allmobilesection .contact-info-single {
@@ -18815,7 +18821,7 @@ img.elementors-service2 {
   background: var(--Second-Color, #052A23);
 }
 .mobile-sidebar.sidebar5 .mobile-nav li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
 }
@@ -18829,7 +18835,7 @@ img.elementors-service2 {
   background: #ffffff;
 }
 .mobile-sidebar.sidebar5 .allmobilesection .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: var(--Second-Color, #052A23);
   background: var(--Main-Color, #E5B472);
@@ -18873,7 +18879,7 @@ img.elementors-service2 {
   transform: translateY(-5px);
 }
 .mobile-sidebar.sidebar5 .allmobilesection h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #ffffff;
@@ -18885,7 +18891,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar5 .allmobilesection .contact-info-single {
@@ -18919,7 +18925,7 @@ img.elementors-service2 {
   background: #F6F4FC;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 .sidebar-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 .sidebar-menu.list-unstyled a {
@@ -18927,17 +18933,17 @@ img.elementors-service2 {
   display: inline-block;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 .sidebar-contact-header h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   margin-top: 24px;
   margin-bottom: 20px;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 .sidebar-contact-header a {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 .theme-btnarea a.welconme-btn2 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 16px;
   font-weight: 600;
   color: #ffffff;
@@ -19004,7 +19010,7 @@ img.elementors-service2 {
   color: #573AA9;
 }
 .slide-bar.slide-bar2 .sidebar-info.sidebar-info2 h3 {
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: Arial, sans-serif;
   margin-top: 20px;
 }
 
@@ -19012,26 +19018,26 @@ img.elementors-service2 {
   background: #F4F3EF;
 }
 .slide-bar.slide-bar3 .sidebar-info.sidebar-info3 .sidebar-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .slide-bar.slide-bar3 .sidebar-info.sidebar-info3 .sidebar-menu.list-unstyled a {
   color: #AA5615;
   display: inline-block;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
 }
 .slide-bar.slide-bar3 .sidebar-info.sidebar-info3 .sidebar-contact-header h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   margin-top: 20px;
 }
 .slide-bar.slide-bar3 .sidebar-info.sidebar-info3 .sidebar-contact-header a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .slide-bar.slide-bar3 .sidebar-info.sidebar-info3 .theme-btnarea .casebtn1 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #ffffff;
@@ -19084,7 +19090,7 @@ img.elementors-service2 {
   color: #AA5615;
 }
 .slide-bar.slide-bar3 h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   margin-bottom: 24px;
   margin-top: 20px;
 }
@@ -19093,26 +19099,26 @@ img.elementors-service2 {
   background: #ECF7FF;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 .sidebar-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 .sidebar-menu.list-unstyled a {
   color: #aa5515;
   display: inline-block;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 .sidebar-contact-header h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   margin-top: 20px;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 .sidebar-contact-header a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 .theme-btnarea .welcome-btn4 {
   font-size: 16px;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   color: #ffffff;
   font-weight: 700;
   background: #aa5515;
@@ -19147,7 +19153,7 @@ img.elementors-service2 {
   color: #aa5515;
 }
 .slide-bar.slide-bar4 .sidebar-info.sidebar-info4 h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Arial, sans-serif;
   margin-bottom: 24px;
   margin-top: 20px;
   font-weight: 500;
@@ -19170,7 +19176,7 @@ img.elementors-service2 {
   filter: brightness(0) invert(1);
 }
 .sidebar-info.sidebar-info5 .sidebar-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #ffffff;
 }
@@ -19179,20 +19185,20 @@ img.elementors-service2 {
   display: inline-block;
 }
 .sidebar-info.sidebar-info5 .sidebar-contact-header h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 .sidebar-info.sidebar-info5 .sidebar-contact-header a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #ffffff;
 }
 
 .sidebar-info.sidebar-info5 .theme-btnarea .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: var(--Second-Color, #052A23);
   background: var(--Main-Color, #E5B472);
@@ -19250,7 +19256,7 @@ img.elementors-service2 {
 }
 .sidebar-info.sidebar-info5 h3.sidebar-heading {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
   margin-top: 20px;
 }
@@ -19307,7 +19313,7 @@ img.elementors-service2 {
   filter: brightness(0) invert(1);
 }
 .sidebar-info.sidebar-info6 .sidebar-content p {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #ffffff;
 }
@@ -19315,21 +19321,21 @@ img.elementors-service2 {
   color: #ffffff;
   display: inline-block;
   transition: all 0.4s ease-in-out;
-  font-family: "Outfit", sans-serif !important;
+  font-family: Arial, sans-serif;
 }
 .sidebar-info.sidebar-info6 .sidebar-menu.list-unstyled a:hover {
   color: #aa5515;
   transition: all 0.4s ease-in-out;
 }
 .sidebar-info.sidebar-info6 .sidebar-contact-header h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 .sidebar-info.sidebar-info6 .sidebar-contact-header a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 400;
   color: #ffffff;
 }
@@ -19350,14 +19356,14 @@ img.elementors-service2 {
   color: #ffffff;
 }
 .sidebar-info.sidebar-info6 h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
   margin-top: 20px;
 }
 
 .sidebar-info.sidebar-info6 .theme-btnarea .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #aa5515;
   background: #ffffff;
@@ -19416,7 +19422,7 @@ img.elementors-service2 {
 }
 .sidebar-info.sidebar-info6 h3.sidebar-heading {
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 30px;
 }
 
@@ -19448,7 +19454,7 @@ img.elementors-service2 {
   background: #345268;
 }
 .mobile-sidebar.sidebar6 .mobile-nav li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
 }
@@ -19462,7 +19468,7 @@ img.elementors-service2 {
   background: #ffffff;
 }
 .mobile-sidebar.sidebar6 .allmobilesection .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #aa5515;
   background: #ffffff;
@@ -19507,7 +19513,7 @@ img.elementors-service2 {
   background: #aa5515;
 }
 .mobile-sidebar.sidebar6 .allmobilesection h3 {
-  font-family: "Vidaloka", serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #ffffff;
@@ -19519,7 +19525,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar6 .allmobilesection .contact-info-single {
@@ -19559,7 +19565,7 @@ img.elementors-service2 {
   background: #0A141C;
 }
 .mobile-sidebar.sidebar6 .mobile-nav li a {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   color: #ffffff;
 }
@@ -19573,7 +19579,7 @@ img.elementors-service2 {
   background: #ffffff;
 }
 .mobile-sidebar.sidebar6 .allmobilesection .welcome5-btn {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #aa5515;
   background: #ffffff;
@@ -19618,7 +19624,7 @@ img.elementors-service2 {
   background: #aa5515;
 }
 .mobile-sidebar.sidebar6 .allmobilesection h3 {
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px;
   line-height: 34px;
   color: #ffffff;
@@ -19630,7 +19636,7 @@ img.elementors-service2 {
   font-size: 16px;
   font-weight: 500;
   color: #ffffff;
-  font-family: "Outfit", sans-serif;
+  font-family: Arial, sans-serif;
   display: inline-block;
 }
 .mobile-sidebar.sidebar6 .allmobilesection .contact-info-single {
@@ -19663,14 +19669,14 @@ img.elementors-service2 {
 aside.slide-bar.close-side .sidebar-info .sidebar-contact-header h3 {
   font-size: 30px;
   line-height: 34px;
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   margin-top: 24px;
   margin-bottom: 20px;
   color: #0b1b23;
   font-weight: 600;
 }
 aside.slide-bar.close-side .sidebar-info h3 {
-  font-family: "Urbanist", sans-serif;
+  font-family: Arial, sans-serif;
   margin-top: 20px;
 }
 
