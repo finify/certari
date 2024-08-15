@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
-                        <h1>About Us</h1>
+                        <h1>About <b class="defence">Us</b></h1>
                         <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> About Us</a>
                         <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                     </div>
@@ -26,13 +26,13 @@
         <div class="col-lg-6">
           <div class="about3-textarea">
             <span>About Us</span>
-            <h2>What We Do</h2>
+            <h2>What We <b class="defence">Do</b></h2>
             <p>In today's digital age, with fast-moving innovations and technology shaping the world into a global village, you need a partner to navigate the uncertainties of different terrains. With more opportunities sprouting around the world, the investment landscape gets more interesting - and complex too. Rapid climate changes, new technology, and economic realities are shaping the way our world works and how we can solve the world's challenges with purpose and value.</p>
-            <h2>Our Mission</h2>
+            <h2>Our <b class="defence">Mission</b></h2>
             <div class="about3-pera-text">
               <p class="mt-1">To be the most preferred private bank in Africa.</p>
             </div>
-            <h2>Our Vision</h2>
+            <h2>Our <b class="defence">Vision</b></h2>
             <div class="about3-pera-text">
               <p class="mt-1">Helping clients grow from success to significance.</p>
             </div>
@@ -79,7 +79,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-service-content">
-                    <h2>The Certari Way</h2>
+                    <h2>The <b class="defence">Certari</span> Way</h2>
                     <p>Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
                     sustainable development and the welfare of our clients (Certarians).</p>
                     <div class="about3-textarea-list">
@@ -116,9 +116,9 @@
             <div class="col-lg-6">
                 <div class="service-2-header-area">
                     <span data-aos="fade-left" data-aos-duration="600">Core Values</span>
-                    <h2 data-aos="fade-left" data-aos-duration="800">Our History</h2>
+                    <h2 data-aos="fade-left" data-aos-duration="800">Our <b class="defence">History</span></h2>
                     <p class="pera-header" data-aos="fade-left" data-aos-duration="1000">“From little beginnings, with purpose and clarity, we are building a legacy of value-driven synergies that influence change across individuals, industries, and economies with sustainable results.”</p>
-                    <h2 data-aos="fade-left" data-aos-duration="800">Our People</h2>
+                    <h2 data-aos="fade-left" data-aos-duration="800">Our <b class="defence">People</span></h2>
                     <p class="pera-header" data-aos="fade-left" data-aos-duration="1000">“Leading with strong corporate governance practices and oversight expertise spanning a wealth of experience, our Board of Directors is responsible for the strategic direction at Certari.”</p>
                     
                 </div>
@@ -132,7 +132,7 @@
 <div class="cta6-section-area sp4" style="background-image: url(/homeassets/assets/img/images/cta-bg1.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6">
+      <div class="col-lg-10">
         <div class="cta6-header-area">
           <h2 data-aos="fade-up" data-aos-duration="800">Certari Way</h2>
           <P data-aos="fade-up" data-aos-duration="1000">Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
@@ -140,7 +140,7 @@
           
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-2">
         <div class="div" data-aos="fade-up" data-aos-duration="1200">
             
              <a href="/contact" class="welcome6-btn">Contact Us <span><i class="fa-regular fa-arrow-right"></i></span></a>

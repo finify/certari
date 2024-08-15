@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
-                        <h1>Asset Management</h1>
+                        <h1>Asset <b class="defence">Management</b></h1>
                         <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> Asset Management</a>
                         <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                     </div>
@@ -183,7 +183,7 @@
 <div class="cta5-section-area sp4" style="background-image: url(/homeassets/assets/img/images/cta-bg1.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-8">
+      <div class="col-lg-10">
         <div class="cta5-header-area">
           <h2 data-aos="fade-up" data-aos-duration="800">Start Your Journey to <img src="/homeassets/assets/img/elements/quito3.png" alt=""> <br> a Fresh Beginning</h2>
           <p class="text-white">When you join Certari, you become a Certarian and the possibilities become endless.</p>
@@ -221,7 +221,7 @@
         </div>
        </div>
       </div> -->
-      <div class="col-lg-3">
+      <div class="col-lg-2">
         <div class="div" data-aos="fade-up" data-aos-duration="1200">
             
              <a href="https://cp-certari.zanibal.com/" class="welcome6-btn">Become a Client <span><i class="fa-regular fa-arrow-right"></i></span></a>

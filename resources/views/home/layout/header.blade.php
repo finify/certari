@@ -68,7 +68,14 @@
 												<li><a href="/about#team">Our Team </a></li>
 											</ul>
 										</li>
-                                        <li>
+                                        <li><a class=" mainhome">SERVICES <span><i class="fa-solid fa-angle-down"></i></span></a>
+											<ul class="dropdown-padding">
+												<li><a href="/assetmanagement">ASSET MANAGEMENT</a></li>
+												<li><a href="/principalconsulting">PRINCIPAL CONSULTING</a></li>
+												<li><a href="/greenrealty">GREEN REALTY </a></li>
+											</ul>
+										</li>
+                                        {{-- <li>
                                             <a href="/assetmanagement">ASSET MANAGEMENT</a>
                                         </li>
                                         <li>
@@ -76,7 +83,7 @@
                                         </li>
                                         <li>
                                             <a href="/greenrealty">GREEN REALTY</a>
-                                        </li>
+                                        </li> --}}
                                         <li>
                                             <a href="/contact">CONTACT US</a>
                                         </li>
@@ -279,7 +286,7 @@
 						<li><a href="/about#team">Our Team </a></li>
 					</ul>
 				</li>
-				<li>
+				{{-- <li>
 					<a href="/assetmanagement">ASSET MANAGEMENT</a>
 				</li>
 				<li>
@@ -287,17 +294,16 @@
 				</li>
 				<li>
 					<a href="/greenrealty">GREEN REALTY</a>
-				</li>
-                <!-- <li>
-                    <a href="#">Pages</a>
+				</li> --}}
+                <li>
+                    <a href="#">SERVICES </a>
                     <ul class="sub-menu">
-                        <li><a href="team1.html">Our Team 01</a></li>
-                        <li><a href="team2.html">Our Team 02</a></li>
-                        <li><a href="testimonial1.html">Testimonial 01 </a></li>
-                        <li><a href="testimonial2.html">Testimonial 02 </a></li>
-                        <li><a href="testimonial3.html">Testimonial 03 </a></li>
+                        <li><a href="/assetmanagement">ASSET MANAGEMENT</a></li>
+                        <li><a href="/principalconsulting">PRINCIPAL CONSULTING</a></li>
+                        <li><a href="/greenrealty">GREEN REALTY </a></li>
                     </ul>
-                </li> -->
+                </li> 
+               
             </ul>
 
             <div class="allmobilesection">

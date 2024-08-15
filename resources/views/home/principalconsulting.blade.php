@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
-                        <h1>Principal Consulting</h1>
+                        <h1>Principal <b class="defence">Consulting</b></h1>
                         <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> Principal Consulting</a>
                         <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                     </div>

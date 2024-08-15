@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-3 m-auto">
                 <div class="welcome-inner-header text-center">
-                    <h1>Contact Us</h1>
+                    <h1>Contact <span class="defence">Us</span></h1>
                     <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> Contact Us</a>
                     <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
                 </div>
@@ -62,7 +62,7 @@
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="contact-inner">
-                                          <button type="submit">Free Case Evulation <i class="fa-light fa-arrow-right"></i></button>
+                                          <button type="submit">Send Message<i class="fa-light fa-arrow-right"></i></button>
                                         </div>
                                     </div>
                                 </div>
@@ -75,7 +75,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Contact Us</h4>
-                                    <a href="#">1ST FLOOR ROCK TOWERS, ROCK DRIVE, LEKKI PHASE 1, LAGOS NIGERIA.</a>
+                                    <a href="#">1st Floor, Rock Towers, Rock Drive, Lekki Phase 1, Lagos, Nigeria.</a>
                                 </div>
                             </div>
                             <div class="space20"></div>
@@ -107,7 +107,7 @@
                 <div class="map-section-area">
                     <div class="mapouter">
                         <div class="gmap_canvas">
-                          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4506257.120552435!2d88.67021924228865!3d21.954385721237916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1704088968016!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4950.645276260915!2d3.4697089749922085!3d6.439479593551766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf44d2419cc2b%3A0xa23ac6cacd532099!2sThe%20Rock%20Tower!5e1!3m2!1sen!2sng!4v1723685298448!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                       </div>    
                 </div>

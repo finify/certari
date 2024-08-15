@@ -67,8 +67,7 @@
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-location1.svg" alt="" /><a href="#">
-                                            1ST FLOOR ROCK TOWERS, ROCK DRIVE,</br>
-                                            LEKKI PHASE 1, LAGOS NIGERIA.</a>
+                                            1st Floor, Rock Towers, Rock Drive, Lekki Phase 1, Lagos, Nigeria.</a>
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-phn.svg" alt="" /><a
