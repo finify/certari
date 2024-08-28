@@ -113,12 +113,12 @@
                                                 <img src="/homeassets/img/certarilogo.webp" width="150px" alt="logo" />
                                             </a>
                                         </div>
-                                        <div class="sidebar-content">
+                                        {{-- <div class="sidebar-content">
                                             <p>
                                                 Revolutionize Your Future: Harness the Power of
                                                 Technology for Unparalleled Growth and Success!
                                             </p>
-                                        </div>
+                                        </div> --}}
                                         <!-- <ul class="sidebar-menu list-unstyled">
                                             <li><a href="about.html">About</a></li>
                                             <li><a href="service1.html">Services</a></li>
@@ -134,7 +134,7 @@
                                                         <img src="/homeassets/assets/img/icons/phone1.svg" alt="" />
                                                     </div>
                                                     <div class="phone-side">
-                                                        <a href="tel:+234(0)8083425374">+234(0)8083425374</a> <br />
+                                                        <a href="tel:+234(0)8104533228">+234(0)8104533228</a> <br />
                                                         <!-- <a href="tel:123-456-7890">123-456-7890</a> -->
                                                     </div>
                                                 </div>
@@ -143,7 +143,7 @@
                                                         <img src="/homeassets/assets/img/icons/email1.svg" alt="" />
                                                     </div>
                                                     <div class="phone-side">
-                                                        <a href="mailto:inquiries@certari.com">inquiries@certari.com</a>
+                                                        <a href="mailto:clientcare@certariassetmanagement.com">clientcare@certariassetmanagement.com</a>
                                                         <!-- <br />
                                                         <a href="mailtodemolawsy%40gmail.html">demolawsy@gmail.com</a> -->
                                                     </div>
@@ -163,24 +163,12 @@
                                             </div>
                                         </div>
                                         <div class="theme-btnarea">
-                                            <a href="#" class="welcome5-btn">Contact Us</a>
+                                            <a href="/contact" class="welcome5-btn">Contact Us</a>
                                         </div>
                                         <h3 class="sidebar-heading">Social Links</h3>
                                         <ul class="social-links">
                                             <li>
-                                                <a href="#!"><i class="fa-brands fa-linkedin"></i></a>
-                                            </li>
-                                            <li>
-                                                <a href="#!"><i class="fa-brands fa-facebook"></i></a>
-                                            </li>
-                                            <li>
-                                                <a href="#!"><i class="fa-brands fa-x-twitter"></i></a>
-                                            </li>
-                                            <li>
-                                                <a href="#!"><i class="fa-brands fa-instagram"></i></a>
-                                            </li>
-                                            <li>
-                                                <a href="#!"><i class="fa-brands fa-pinterest"></i></a>
+                                                <a href="https://www.linkedin.com/company/certari-asset-management/"><i class="fa-brands fa-linkedin"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -316,7 +304,7 @@
                                 <img src="/homeassets/assets/img/icons/footer-phn.svg" alt="" />
                             </div>
                             <div class="contact-info-text">
-                                <a href="tel:+234(0)8083425374">+234(0)8083425374</a>
+                                <a href="tel:+234(0)8104533228">+234(0)8104533228</a>
                             </div>
                         </div>
 
@@ -325,7 +313,7 @@
                                 <img src="/homeassets/assets/img/icons/footer-email2.svg" alt="" />
                             </div>
                             <div class="contact-info-text">
-                                <a href="mailto:inquiries@certari.com">inquiries@certari.com</a>
+                                <a href="mailto:clientcare@certariassetmanagement.com">clientcare@certariassetmanagement.com</a>
                             </div>
                         </div>
 
@@ -347,16 +335,7 @@
                             <div class="social-links-mobile-menu5">
                                 <ul>
                                     <li>
-                                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                        <a href="https://www.linkedin.com/company/certari-asset-management/"><i class="fa-brands fa-linkedin-in"></i></a>
                                     </li>
                                 </ul>
                             </div>

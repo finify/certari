@@ -78,6 +78,54 @@
     }
 
     
+        .video-background {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            height: 50vh;
+        }
+
+        .video-background iframe {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 100%; /* 100vh * 16/9 aspect ratio */
+            height: 100vh;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+        }
+
+        .content-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+            z-index: 2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            text-align: center;
+            color: white;
+            padding:0px 40px;
+        }
+
+        @media (max-width: 768px) {
+            .video-background iframe {
+                width: 100vw;
+                height: 100%; /* 100vw * 9/16 aspect ratio */
+                scale:176%;
+                transform: translate(-50%, -30%);
+            }
+            .video-background {
+           
+            height: 400px;
+            }
+        }
+
+    
     </style>
 </head>
 

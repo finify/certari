@@ -16,18 +16,18 @@
                                         </p>
                                         <div class="social-list-area">
                                             <ul>
-                                                <li>
+                                                {{-- <li>
                                                     <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                                 </li>
                                                 <li>
                                                     <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                                </li>
+                                                </li> --}}
                                                 <li>
-                                                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                                                    <a href="https://www.linkedin.com/company/certari-asset-management/"><i class="fa-brands fa-linkedin"></i></a>
                                                 </li>
-                                                <li>
+                                                {{-- <li>
                                                     <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                                </li>
+                                                </li> --}}
                                             </ul>
                                         </div>
                                     </div>
@@ -62,8 +62,8 @@
                                     <ul>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-email2.svg" alt="" /><a
-                                                href="maito:inquiries@certari.com">
-                                                inquiries@certari.com</a>
+                                                href="maito:clientcare@certariassetmanagement.com">
+                                                clientcare@certariassetmanagement.com</a>
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-location1.svg" alt="" /><a href="#">
@@ -71,7 +71,7 @@
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-phn.svg" alt="" /><a
-                                                href="tel:+234(0)8083425374">+234(0)8083425374</a>
+                                                href="tel:+234(0)8104533228">+234(0)8104533228</a>
                                         </li>
                                     </ul>
                                 </div>

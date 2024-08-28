@@ -3,15 +3,15 @@
 @section('content')
 
   <!--===== WELCOME STARTS=======-->
-  <div class="welcome-inner-section-area" style="background-image: url(/homeassets/assets/img/bacground/inner-bg.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
-      <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none">
+  <div class="welcome-inner-section-area mt-5" style="background-image: url(/homeassets/img/aboutheader.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; padding-top:300px;">
+      {{-- <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none"> --}}
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
-                        <h1>About <b class="defence">Us</b></h1>
-                        <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> About Us</a>
-                        <img src="/homeassets/assets/img/elements/elementor20.png" alt="">
+                        <h1><b class="defence"></b></h1>
+                        <a href="/"><span><i class="fa-light fa-angle-right"></i></span></a>
+                        {{-- <img src="/homeassets/assets/img/elements/elementor20.png" alt=""> --}}
                     </div>
                 </div>
             </div>
@@ -19,38 +19,36 @@
     </div>
   <!--===== WELCOME ENDS=======-->
 
-  <!--===== ABOUT STARTS=======-->
-  <div class="about3-section-area about-inner" id="about">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6">
-          <div class="about3-textarea">
-            <span>About Us</span>
-            <h2>What We <b class="defence">Do</b></h2>
-            <p>In today's digital age, with fast-moving innovations and technology shaping the world into a global village, you need a partner to navigate the uncertainties of different terrains. With more opportunities sprouting around the world, the investment landscape gets more interesting - and complex too. Rapid climate changes, new technology, and economic realities are shaping the way our world works and how we can solve the world's challenges with purpose and value.</p>
-            <h2>Our <b class="defence">Mission</b></h2>
-            <div class="about3-pera-text">
-              <p class="mt-1">To be the most preferred private bank in Africa.</p>
-            </div>
-            <h2>Our <b class="defence">Vision</b></h2>
-            <div class="about3-pera-text">
-              <p class="mt-1">Helping clients grow from success to significance.</p>
-            </div>
-            
-          </div>
+<!--===== ABOUT STARTS=======-->
+<div class="about3-section-area about-inner" id="about">
+<div class="container">
+    <div class="row align-items-center">
+    <div class="col-lg-6">
+        <div class="about3-textarea">
+        <span>About Us</span>
+        <h2>What We <b class="defence">Do</b></h2>
+        <p>In today's digital age, with fast-moving innovations and technology shaping the world into a global village, you need a partner to navigate the uncertainties of different terrains. With more opportunities sprouting around the world, the investment landscape gets more interesting - and complex too. Rapid climate changes, new technology, and economic realities are shaping the way our world works and how we can solve the world's challenges with purpose and value.</p>
+        <h2 class="mb-0">Our <b class="defence">Mission</b></h2>
+        <div class="about3-pera-text">
+            <p class="mt-1">To be the most preferred private bank in Africa.</p>
         </div>
-        <div class="col-lg-6">
-          <div class="about3-images-area">
-            <img src="/homeassets/img/aboutimage1.jpg" alt="">
-            <div class="elementors21">
-              <img src="/homeassets/assets/img/elements/elementor21.png" alt="">
-            </div>
-          </div>
+        <h2 class="mb-0">Our <b class="defence">Vision</b></h2>
+        <div class="about3-pera-text">
+            <p class="mt-1">Helping clients grow from success to significance.</p>
         </div>
-      </div>
+        
+        </div>
     </div>
-  </div>
-  <!--===== ABOUT ENDS=======-->
+    <div class="col-lg-6">
+        <div class="about3-images-area">
+        <img src="/homeassets/img/aboutimage1.jpg" alt="">
+        
+        </div>
+    </div>
+    </div>
+</div>
+</div>
+<!--===== ABOUT ENDS=======-->
 
 
   <!--===== SERVICE STARTS=======-->
@@ -65,9 +63,9 @@
                     <!-- <div class="about-img2 aniamtion-key-1">
                         <img src="/homeassets/assets/img/images/about-inner-img2.png" alt="" >
                     </div> -->
-                    <div class="eleemntors30 d-lg-inline-block d-none">
+                    {{-- <div class="eleemntors30 d-lg-inline-block d-none">
                         <img src="/homeassets/assets/img/elements/elementor30.png" alt="">
-                    </div>
+                    </div> --}}
                     <div class="experiance-area">
                         <h4><span class="counter">25</span>+</h4>
                         <p>Years Of Experience</p>
@@ -180,16 +178,7 @@
                         <div class="social-links">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -214,16 +203,7 @@
                         <div class="social-links">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -248,16 +228,7 @@
                         <div class="social-links">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -273,7 +244,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/omozusi.png" alt="" />
+                            <img src="/homeassets/img/team/omozusi.jpg" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -282,16 +253,7 @@
                         <div class="social-links">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -306,7 +268,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/ivie.png" alt="" />
+                            <img src="/homeassets/img/team/ivie.jpg" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -315,16 +277,7 @@
                         <div class="social-links">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
-                                <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -339,7 +292,7 @@
                 <div class="team6-main-boxarea">
                     <div class="team6-boxarea">
                         <div class="team6-img">
-                            <img src="/homeassets/img/team/nicholas.png" alt="" />
+                            <img src="/homeassets/img/team/nicholas.jpg" alt="" />
                         </div>
                         <div class="team6-images">
                             <img src="/homeassets/assets/img/bacground/polygon3.png" alt="" class="polygon3" />
@@ -347,18 +300,11 @@
                         </div>
                         <div class="social-links">
                             <ul>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                                </li>
+                               
                                 <li>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
                                 </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>

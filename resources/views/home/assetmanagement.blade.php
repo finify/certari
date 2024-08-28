@@ -2,7 +2,24 @@
 
 @section('content')
 <!--===== WELCOME STARTS=======-->
-<div class="welcome-inner-section-area" style="background-image: url(/homeassets/assets/img/bacground/inner-bg.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
+  <div class="welcome-inner-section-area mt-5" style="background-image: url(/homeassets/img/asset1.webp); background-position: center; background-repeat: no-repeat; background-size: cover; padding-top:300px;">
+      {{-- <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none"> --}}
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 m-auto">
+                    <div class="welcome-inner-header text-center">
+                        <h1><b class="defence"></b></h1>
+                        <a href="/"><span><i class="fa-light fa-angle-right"></i></span></a>
+                        {{-- <img src="/homeassets/assets/img/elements/elementor20.png" alt=""> --}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  <!--===== WELCOME ENDS=======-->
+
+<!--===== WELCOME STARTS=======-->
+{{-- <div class="welcome-inner-section-area" style="background-image: url(/homeassets/assets/img/bacground/inner-bg.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none">
         <div class="container">
             <div class="row">
@@ -15,7 +32,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
   <!--===== WELCOME ENDS=======-->
   <!--===== ABOUT STARTS=======-->
   <div class="about3-section-area about-inner">
@@ -33,9 +50,7 @@
         <div class="col-lg-6">
           <div class="about3-images-area">
             <img src="/homeassets/img/aboutimage1.jpg" alt="">
-            <div class="elementors21">
-              <img src="/homeassets/assets/img/elements/elementor21.png" alt="">
-            </div>
+           
           </div>
         </div>
       </div>
@@ -185,7 +200,7 @@
     <div class="row align-items-center">
       <div class="col-lg-10">
         <div class="cta5-header-area">
-          <h2 data-aos="fade-up" data-aos-duration="800">Start Your Journey to <img src="/homeassets/assets/img/elements/quito3.png" alt=""> <br> a Fresh Beginning</h2>
+          <h2 data-aos="fade-up" data-aos-duration="800">Start Your Journey to <br> a Fresh Beginning</h2>
           <p class="text-white">When you join Certari, you become a Certarian and the possibilities become endless.</p>
          
         </div>
@@ -297,4 +312,16 @@
     </div>
 </div>
 <!--===== CASE STUDY ENDS =======-->
+
+ <div class="container">
+      <div class="row">
+          <div class="col-lg-6">
+            <h4>Licensed by the Securities & Exchange Commission as a Fund/Portfolio  Manager.</h4>
+          </div>
+          <div class="col-lg-6">
+            <img src="/homeassets/img/secnigeria.webp" alt="" class="img-fluid">
+          </div>
+      </div>
+  </div>
+
 @endsection
