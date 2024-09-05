@@ -98,7 +98,7 @@
                                         <div class="marginsp1"></div>
                                         <a class="header__bar hamburger_menu header__bar-icon header_bar5"
                                             href="javascript:void(0);">
-                                            <i class="fa-solid fa-bars"></i>
+                                            <i class="fa-solid fa-bars" style="color: #aa5515!important"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -245,7 +245,7 @@
                         <a href="/"><img src="/homeassets/img/certarilogo.webp" width="150px" alt="" /></a>
                     </div>
                     <div class="mobile-nav-icon dots-menu">
-                        <i class="fa-solid fa-bars text-black"></i>
+                        <i class="fa-solid fa-bars text-black" style="color: #aa5515!important"></i>
                     </div>
                 </div>
             </div>

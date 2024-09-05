@@ -2,14 +2,14 @@
 
 @section('content')
 <!--===== WELCOME STARTS=======-->
-<div class="welcome-inner-section-area" style="background-image: url(/homeassets/assets/img/bacground/inner-bg.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
+  <div class="welcome-inner-section-area mt-5" style="background-image: url(/homeassets/img/about2.webp); background-position: center; background-repeat: no-repeat; background-size: cover; padding-top:300px;">
+      {{-- <img src="/homeassets/assets/img/elements/elementor40.png" alt="" class="elementor40 keyframe3 d-lg-block d-none"> --}}
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 m-auto">
                     <div class="welcome-inner-header text-center">
-                        <h1>Principal <b class="defence">Consulting</b></h1>
-                        <a href="/">Home <span><i class="fa-light fa-angle-right"></i></span> Principal Consulting</a>
-                       
+                        <h1><b class="defence"></b></h1>
+                        {{-- <img src="/homeassets/assets/img/elements/elementor20.png" alt=""> --}}
                     </div>
                 </div>
             </div>

@@ -5931,7 +5931,7 @@ ul.social-links li a:hover {
 .service3-section-area .testimonial-arrows {
   position: absolute;
   top: 42%;
-  right: -100px;
+  right: -25px;
 }
 @media (max-width: 767px) {
   .service3-section-area .testimonial-arrows {

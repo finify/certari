@@ -139,12 +139,11 @@
               <div class="col-lg-6">
                 <div class=" foter-carousel">
                   <div class="hero13-single-slider img5">
-                    <img src="/homeassets/img/bamboo1.jpg" alt="">
-                    
+                    <img src="/homeassets/img/bamboo1.jpg" height="100%" alt="">
                   </div>
 
                   <div class="hero13-single-slider img5">
-                    <img src="/homeassets/img/solar1.jpg" alt="">
+                    <img src="/homeassets/img/solar1.jpg" height="100%" alt="">
                     
                   </div>
 
