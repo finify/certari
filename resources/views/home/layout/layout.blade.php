@@ -85,7 +85,7 @@
             height: 50vh;
         }
 
-        .video-background iframe {
+        .video-background video {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -113,7 +113,7 @@
         }
 
         @media (max-width: 768px) {
-            .video-background iframe {
+            .video-background video {
                 width: 100vw;
                 height: 100%; /* 100vw * 9/16 aspect ratio */
                 scale:176%;

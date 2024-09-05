@@ -123,7 +123,7 @@
                     <div class="row">
                         <div class="col-lg-12" data-aos="fade-up" data-aos-duration="800">
                             <div class="about5-img1">
-                                <img src="/homeassets/img/homepageimage1.jpg" alt="" />
+                                <img src="/homeassets/img/aboutnew.png" alt="" />
                             </div>
                         </div>
                         <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000">
@@ -398,7 +398,9 @@
 
 
 <div class="video-background">
-    <iframe src="https://www.youtube.com/embed/WOpwdFOKUcY?autoplay=1&mute=1&loop=1&controls=0&showinfo=0&playlist=WOpwdFOKUcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <video autoplay="" loop="" muted="">
+            <source src="/homeassets/sustainability.mp4" type="video/mp4">
+        </video>
 
     <div class="content-overlay">
         
