@@ -64,7 +64,7 @@
     <div class="row">
       <div class="col-lg-4 m-auto">
         <div class="work3-progress text-center">
-          <span data-aos="fade-up" data-aos-duration="600">Work Process</span>
+          {{-- <span data-aos="fade-up" data-aos-duration="600">Work Process</span> --}}
           <h2 data-aos="fade-up" data-aos-duration="800">OUR OFFERINGS</h2>
         </div>
       </div>

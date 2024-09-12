@@ -156,9 +156,10 @@
                         Simple, Sound <span class="defence">Financial Advice</span>
                     </h2>
                     <p data-aos="fade-left" data-aos-duration="900">
-                        Founded in XXX, Certari Asset Management (Certari) is a leading asset manager offering a wide range of asset management services. We are a fast paced, results-driven and innovative organization, setting unique standards of excellence  in the Nigerian Investment market and beyond.
+                       Financial solutions with Certari are not complicated.
+                        We offer value above all else.
                     </p>
-                    <h3 data-aos="fade-left" data-aos-duration="1000">
+                    {{-- <h3 data-aos="fade-left" data-aos-duration="1000">
                         We strive to do this in the following areas:
                     </h3>
                     <div class="list-about" data-aos="fade-left" data-aos-duration="1100">
@@ -181,7 +182,7 @@
                                 <a href="#"><img src="/homeassets/assets/img/icons/check-img7.svg" alt="" />Contributing to Economic Growth</a>
                             </li>
                         </ul> -->
-                    </div>
+                    </div> --}}
                     
                 </div>
             </div>
