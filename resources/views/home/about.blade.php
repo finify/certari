@@ -67,7 +67,7 @@
                         <img src="/homeassets/assets/img/elements/elementor30.png" alt="">
                     </div> --}}
                     <div class="experiance-area">
-                        <h4><span class="counter">25</span>+</h4>
+                        <h4><span class="counter">65</span>+</h4>
                         <p>Years Of Experience</p>
                     </div>
                 </div>
