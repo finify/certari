@@ -405,8 +405,8 @@
     <div class="content-overlay">
         
         <div class="welcome6-header-area">
-            <h1 data-aos="fade-left" data-aos-duration="900"> Sustainability at Cetari </h1>
-            <p data-aos="fade-left" data-aos-duration="1000" style="font-size: 18px;">For us, sustainability is about providing the most effective services and products to our clients, helping them grow most of their wealth, without harming the environment.</p>
+            <h1 data-aos="fade-left" data-aos-duration="900"> Sustainability at Certari </h1>
+            <p data-aos="fade-left" data-aos-duration="1000" style="font-size: 18px;">For us, sustainability is about providing the most effective services and products to our clients, <br> helping them grow their wealth, without harming the environment.</p>
             <div class="div" data-aos="fade-left" data-aos-duration="1200">
             <a href="/about" class="welcome6-btn">Learn More<i class="fa-light fa-arrow-right"></i></a>
             <!-- <a href="contact2.html" class="welcome7-btn">Learn More <i class="fa-light fa-arrow-right"></i></a> -->
