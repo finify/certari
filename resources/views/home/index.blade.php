@@ -16,10 +16,9 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="welcome6-header-area">
-                        <span data-aos="fade-left" data-aos-duration="800">Value in: Value Out</span>
                         <h1 data-aos="fade-left" data-aos-duration="900">  Certari,<br>
                         Endless Possibilities </h1>
-                        <p data-aos="fade-left" data-aos-duration="1000">Certari Asset Management has grown to become a significant player in the asset management sector, quickly earning a reputation for our innovative and collaborative approach to investment.</p>
+                        {{-- <p data-aos="fade-left" data-aos-duration="1000">Certari Asset Management has grown to become a significant player in the asset management sector, quickly earning a reputation for our innovative and collaborative approach to investment.</p> --}}
                         <div class="div" data-aos="fade-left" data-aos-duration="1200">
                         <a href="/about" class="welcome6-btn">Learn More<i class="fa-light fa-arrow-right"></i></a>
                         <!-- <a href="contact2.html" class="welcome7-btn">Learn More <i class="fa-light fa-arrow-right"></i></a> -->
@@ -53,10 +52,10 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="welcome6-header-area">
-                        <span data-aos="fade-left" data-aos-duration="800">Certari</span>
-                        <h1 data-aos="fade-left" data-aos-duration="900">Simple, Sound Financial Advice</h1>
-                        <p data-aos="fade-left" data-aos-duration="1000">Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
-                        sustainable development and the welfare of our clients (Certarians).</p>
+                        <h1 data-aos="fade-left" data-aos-duration="900">  Certari,<br>
+                        Endless Possibilities </h1>
+                        {{-- <p data-aos="fade-left" data-aos-duration="1000">Certari’s underlying drive is to build financial ecosystems across Nigeria and Africa, geared toward
+                        sustainable development and the welfare of our clients (Certarians).</p> --}}
                         <div class="div" data-aos="fade-left" data-aos-duration="1200">
                         <a href="/about" class="welcome6-btn">Learn More<i class="fa-light fa-arrow-right"></i></a>
                         </div>
@@ -183,7 +182,6 @@
                             </li>
                         </ul> -->
                     </div> --}}
-                    
                 </div>
             </div>
         </div>
