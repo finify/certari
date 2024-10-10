@@ -5,7 +5,7 @@
                 <div class="col-lg-12">
                     <div class="footer-all-section-area sp5">
                         <div class="row">
-                            <div class="col-lg-2 col-md-4">
+                            <div class="col-lg-1 col-md-6">
                                 <div class="footer-last-section">
                                     <div class="footer-imgage">
                                         <img src="/homeassets/img/certarilogo.webp" width="150px" alt="" />
@@ -56,7 +56,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                            <div class="col-lg-4 col-md-6">
                                 <div class="get-links-area">
                                     <h3>Get In Touch</h3>
                                     <ul>
@@ -95,7 +95,12 @@
                     </div>
                     <div class="copyright-pera">
                         <p>© Copyright 2024 Certari</p>
-                        <a href="#">Privacy Policy</a>
+                        <div>
+                            <a href="/whistle-blower">Whistle Blower</a> /
+                            <a href="/legal">Legal</a> /
+                            <a href="/privacy">Privacy Policy</a>
+                        </div>
+                        
                     </div>
                 </div>
             </div>

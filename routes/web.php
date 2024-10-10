@@ -21,5 +21,10 @@ Route::group(['namespace' => 'App\Http\Controllers'], function()
     Route::get('/assetmanagement', 'HomeController@assetmanagement')->name('home.assetmanagement');
     Route::get('/principalconsulting', 'HomeController@principalconsulting')->name('home.principalconsulting');
     Route::get('/greenrealty', 'HomeController@greenrealty')->name('home.greenrealty');
+    Route::get('/article', 'HomeController@article')->name('home.article');
+
+    Route::get('/whistle-blower', 'HomeController@whistle')->name('home.whistle');
+    Route::get('/legal', 'HomeController@legal')->name('home.legal');
+    Route::get('/privacy', 'HomeController@privacy')->name('home.privacy');
 
 });

@@ -130,7 +130,7 @@
                                             <h3>Contact Info</h3>
                                             <div class="sidebar-footer-area">
                                                 <div class="sidebar-author-area">
-                                                    <div class="phone-side">
+                                                    <div class="phone-side ms-0">
                                                         <img src="/homeassets/assets/img/icons/phone1.svg" alt="" />
                                                     </div>
                                                     <div class="phone-side">
@@ -139,17 +139,17 @@
                                                     </div>
                                                 </div>
                                                 <div class="sidebar-author-area">
-                                                    <div class="phone-side">
+                                                    <div class="phone-side ms-0">
                                                         <img src="/homeassets/assets/img/icons/email1.svg" alt="" />
                                                     </div>
-                                                    <div class="phone-side">
+                                                    <div class="phone-side ms-0">
                                                         <a href="mailto:clientcare@certariassetmanagement.com">clientcare@certariassetmanagement.com</a>
                                                         <!-- <br />
                                                         <a href="mailtodemolawsy%40gmail.html">demolawsy@gmail.com</a> -->
                                                     </div>
                                                 </div>
                                                 <div class="sidebar-author-area">
-                                                    <div class="phone-side">
+                                                    <div class="phone-side ms-0">
                                                         <img src="/homeassets/assets/img/icons/loctaion1.svg" alt="" />
                                                     </div>
                                                     <div class="phone-side">

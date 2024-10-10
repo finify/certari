@@ -74,7 +74,7 @@
     </div>
 
     <div class="welcome6-section-area">
-        <img src="/homeassets/img/green3.jpg" alt="" class="homepage6-bg" style="z-index:1">
+        <img src="/homeassets/img/solarheader.jpg" alt="" class="homepage6-bg" style="z-index:1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -139,7 +139,7 @@
               <div class="col-lg-6">
                 <div class=" foter-carousel">
                   <div class="hero13-single-slider img5">
-                    <img src="/homeassets/img/bamboo1.jpg" height="100%" alt="">
+                    <img src="/homeassets/img/solarheader2.jpg" height="100%" alt="">
                   </div>
 
                   <div class="hero13-single-slider img5">

@@ -41,7 +41,8 @@
         <div class="col-lg-6">
           <div class="about3-textarea">
             <!-- <span>About Us</span> -->
-            <h4>Direct, co-investment, and joint venture opportunities can provide an additional source of returns and diversification in core and opportunistic portfolios.</h4>
+            <h4>Our dedicated team specializing in direct private investment provides access to exclusive opportunities sourced from our institutional and local networks, allowing you to invest alongside similar financial institutions and family offices.</h4>
+          </br>
             <p>They also enable you to invest alongside like-minded financial institutions and family offices. Our dedicated direct private investment team sources these exclusive opportunities from our institutional and local networks.</p>
             
             
@@ -49,7 +50,7 @@
         </div>
         <div class="col-lg-6">
           <div class="about3-images-area">
-            <img src="/homeassets/img/aboutimage1.jpg" alt="">
+            <img src="/homeassets/img/assetmanage1.jpg" alt="">
            
           </div>
         </div>
@@ -316,7 +317,7 @@
  <div class="container">
       <div class="row">
           <div class="col-lg-6">
-            <h4>Licensed by the Securities & Exchange Commission as a Fund/Portfolio  Manager.</h4>
+            <h4 class="mt-4">Licensed by the Securities & Exchange Commission as a Fund/Portfolio  Manager.</h4>
           </div>
           <div class="col-lg-6">
             <img src="/homeassets/img/secnigeria.webp" alt="" class="img-fluid">

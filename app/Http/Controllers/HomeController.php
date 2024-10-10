@@ -29,4 +29,22 @@ class HomeController extends Controller
         return view('home.greenrealty');
     }
 
+    public function article(){
+        return view('home.article');
+    }
+
+    public function whistle(){
+        return view('home.whistle');
+    }
+
+    public function legal(){
+        return view('home.legal');
+    }
+
+    public function privacy(){
+        return view('home.privacy');
+    }
+
+
+
 }

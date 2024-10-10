@@ -41,7 +41,7 @@
     </div>
     <div class="col-lg-6">
         <div class="about3-images-area">
-        <img src="/homeassets/img/aboutimage1.jpg" alt="">
+        <img src="/homeassets/img/about1new.webp" alt="">
         
         </div>
     </div>
@@ -58,7 +58,7 @@
             <div class="col-lg-5">
                 <div class="about-service-area">
                     <div class="about-img1 aniamtion-key-1">
-                        <img src="/homeassets/img/manbrown.avif" alt="">
+                        <img src="/homeassets/img/certariway.avif" alt="">
                     </div>
                     <!-- <div class="about-img2 aniamtion-key-1">
                         <img src="/homeassets/assets/img/images/about-inner-img2.png" alt="" >
@@ -107,7 +107,7 @@
             <div class="col-lg-6">
                 <div class="services-all-images">
                     <div class="images" data-aos="zoom-in" data-aos-duration="1200">
-                        <img src="/homeassets/img/aboutuspeople.jpg" alt="">
+                        <img src="/homeassets/img/ourpeople.jpg" alt="">
                     </div>
                 </div>
             </div>
