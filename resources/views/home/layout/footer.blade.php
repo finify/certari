@@ -62,8 +62,8 @@
                                     <ul>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-email2.svg" alt="" /><a
-                                                href="maito:clientcare@certariassetmanagement.com">
-                                                clientcare@certariassetmanagement.com</a>
+                                                href="maito:enquiry@certarigroup.com">
+                                                enquiry@certarigroup.com</a>
                                         </li>
                                         <li>
                                             <img src="/homeassets/assets/img/icons/footer-location1.svg" alt="" /><a href="#">

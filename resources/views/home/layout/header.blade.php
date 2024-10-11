@@ -143,7 +143,7 @@
                                                         <img src="/homeassets/assets/img/icons/email1.svg" alt="" />
                                                     </div>
                                                     <div class="phone-side ms-0">
-                                                        <a href="mailto:clientcare@certariassetmanagement.com">clientcare@certariassetmanagement.com</a>
+                                                        <a href="mailto:enquiry@certarigroup.com">enquiry@certarigroup.com</a>
                                                         <!-- <br />
                                                         <a href="mailtodemolawsy%40gmail.html">demolawsy@gmail.com</a> -->
                                                     </div>
@@ -313,7 +313,7 @@
                                 <img src="/homeassets/assets/img/icons/footer-email2.svg" alt="" />
                             </div>
                             <div class="contact-info-text">
-                                <a href="mailto:clientcare@certariassetmanagement.com">clientcare@certariassetmanagement.com</a>
+                                <a href="mailto:enquiry@certarigroup.com">enquiry@certarigroup.com</a>
                             </div>
                         </div>
 
